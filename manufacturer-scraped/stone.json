@@ -1,0 +1,39 @@
+{
+  "brand": "Stone Espresso",
+  "manufacturer_url": "https://www.stone-espresso.com",
+  "scraped_date": "2026-05-09",
+  "products": [
+    {
+      "id": "st-stone",
+      "name": "Stone",
+      "images": [
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/1/Stone_Mine_Pure_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/2/Stone_Mine_Plus_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/3/Stone_Mine_A_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/6/Stone_Mine_B_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/4/Stone_Mine_Premium_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/5/Stone_Mine_Premium_Wood_-_Scontornata_Side_-_K3.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/9/StoneLiteWhite-01.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/7/StoneLiteBlack-01.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/8/StoneLitePremium-01.png",
+        "https://stone-espresso.s3.amazonaws.com/uploads/product/image/10/Frame_12__1_.png"
+      ],
+      "specs": {
+        "width": "225 mm",
+        "height": "355 mm",
+        "depth": "440 mm",
+        "weight": "20.5 kg",
+        "heater": "1000 W",
+        "heating_system": "200 W",
+        "boiler_capacity": "1.5 L",
+        "steam_chamber": "0.8 L",
+        "water_tank": "1.2 L (removable)",
+        "voltage_a": "220-240 V — 50/60 Hz",
+        "voltage_b": "115 V — 60 Hz",
+        "panels": "Interchangeable stainless steel magnetic panels"
+      },
+      "description": "Professional technology in a compact domestic size. The Stone is a prosumer espresso machine with interchangeable magnetic panels in multiple finishes (Pure, Plus, A, B, Premium, Wood) — swap the look without tools. Features a 1.5 L boiler, 0.8 L steam chamber, and removable 1.2 L water tank.",
+      "source_url": "https://www.stone-espresso.com/specifications"
+    }
+  ]
+}

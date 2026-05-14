@@ -1,0 +1,28 @@
+{
+  "brand": "Casadio",
+  "manufacturer_url": "https://www.casadio.com",
+  "scraped_date": "2026-05-09",
+  "products": [
+    {
+      "id": "cs-nettuno",
+      "name": "Nettuno",
+      "images": [
+        "https://media.faema.com/medias/NETTUNO-07-MAIN-1000x1000-01.jpg?context=bWFzdGVyfHJvb3R8MTM4NzkzNHxpbWFnZS9qcGVnfGFHWTNMMmc0TlM4NE9UazRPVE0wTURVeU9EazBMMDVGVkZSVlRrOWZNRGRmVFVGSlRsOHhNREF3ZURFd01EQmZNREV1YW5CbnxmMjY0ZTdhZjM0YWM4ZWVlYWE0NWJlNmY2OTRjMDJmYmJkMWVhNmY4NDk0Zjc0ODc5OWJlYWFiNDE2ODk1ZDNi"
+      ],
+      "specs": {},
+      "description": "In life, the important thing is not only to know when to turn the page, but also when to load another page. How about going back to the Home Page and trying again? You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel. Denying consent may make related features unavailable. Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.",
+      "source_url": "https://media.faema.com/occ/v2/casadioSite/products/NETTUNO"
+    },
+    {
+      "id": "cs-undici",
+      "name": "Undici",
+      "images": [
+        "https://media.faema.com/medias/UNDICI-07-MAIN-1000x1000-01.jpg?context=bWFzdGVyfHJvb3R8MTEwMjQzfGltYWdlL2pwZWd8YURFeUwyaGhaQzg0T1RrNE9UTXhNelkxT1RFNEwxVk9SRWxEU1Y4d04xOU5RVWxPWHpFd01EQjRNVEF3TUY4d01TNXFjR2N8YzJmOTdjYmJlNDlhNDU1NDZkY2ZmZWUzOGUzY2FhNWZmMTBlNDI3MzJiMjc4NzJhMzYwNWQ0YmU5ZjBhMjczOA",
+        "https://media.faema.com/medias/ACCESSORIUNDICICAPS-07-MAIN-1000x1000-01.jpg?context=bWFzdGVyfHJvb3R8NTY5MjB8aW1hZ2UvanBlZ3xhR1UxTDJobFppODRPVGs0T1RNMU1EWTROekF5TDBGRFEwVlRVMDlTU1ZWT1JFbERTVU5CVUZOZk1EZGZUVUZKVGw4eE1EQXdlREV3TURCZk1ERXVhbkJufGFlMjhhNzFmODhmMzRhNjc3NDAwN2JmYjQ1MWVjODdmYzRjNzA4NzY4NTY3Y2QxZTk5YjcxOTM1MTI5YWIwOGI"
+      ],
+      "specs": {},
+      "description": "In life, the important thing is not only to know when to turn the page, but also when to load another page. How about going back to the Home Page and trying again? You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel. Denying consent may make related features unavailable. Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.",
+      "source_url": "https://media.faema.com/occ/v2/casadioSite/products/UNDICI"
+    }
+  ]
+}

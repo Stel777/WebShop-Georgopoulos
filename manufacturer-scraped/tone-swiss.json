@@ -1,0 +1,86 @@
+{
+  "brand": "Tone Swiss",
+  "manufacturer_url": "https://tonebrewer.com",
+  "scraped_date": "2026-05-11",
+  "scrape_notes": {
+    "domain": "tone-swiss.com redirects to tonebrewer.com — that is the live brand website.",
+    "tn-touch03": "Found on website as 'Touch 03'. Full specs and images retrieved.",
+    "tn-touch04": "Found on website as 'Touch 04'. Full specs and images retrieved.",
+    "tn-tone": "NOT FOUND on current website. Likely the older 'Touch 01' or base model discontinued before 2022. No manufacturer images available — Wix CDN images retained.",
+    "tn-nitro": "NOT FOUND on current website. Nitro cold brew product not listed. No manufacturer images available — Wix CDN images retained."
+  },
+  "products": [
+    {
+      "id": "tn-touch03",
+      "name": "Tone Touch 03",
+      "brand": "Tone Swiss",
+      "images": [
+        "https://tonebrewer.com/wp-content/uploads/2024/04/tone__touch-03-productshot.webp",
+        "https://tonebrewer.com/wp-content/uploads/2024/04/tone__specification_outline-touch03.webp",
+        "https://tonebrewer.com/wp-content/uploads/2024/04/TONE__touch03-brewbarofthefuture-1.webp",
+        "https://tonebrewer.com/wp-content/uploads/2024/04/brewbar.webp",
+        "https://tonebrewer.com/wp-content/uploads/2024/04/TONE__touch03-back.webp"
+      ],
+      "specs": {
+        "power": "220–240V, 50/60Hz",
+        "heating": "3450 W",
+        "flow": "8 g/sec",
+        "weight": "18 kg",
+        "brewing_volume_max": "1.5 L",
+        "boiler": "Boilerless — reaches 94°C within 2 seconds",
+        "recipes": "Up to 60 recipes programmable",
+        "batch_range": "200 ml – 1.5 L",
+        "color_options": "White/grey, all-white, black/grey, all-black",
+        "awards": "SCA Best New Product Award 2021"
+      },
+      "description": "The TONE Touch 03 is a 100% boilerless single-serve brewer that unleashes the full potential of coffee and tea at the touch of a button. The intelligent recipe development system enables complete customization of beverages including adjustable flow rates, pulse patterns, and temperature — covering blooming, turbulence, and development phases. Achieves 94°C within 2 seconds of powering on. Programmable for batches from 200 ml up to 1.5 L. Can memorize up to 60 recipes for coffee and tea creations. Ability to adjust recipes remotely via the TONE Beverage Manager app (iOS, Android, Windows). Winner of the SCA Best New Product Award 2021.",
+      "source_url": "https://tonebrewer.com/produkte/touch-03/"
+    },
+    {
+      "id": "tn-touch04",
+      "name": "Tone Touch 04",
+      "brand": "Tone Swiss",
+      "images": [
+        "https://tonebrewer.com/wp-content/uploads/2026/04/tone_touch04-1.png",
+        "https://tonebrewer.com/wp-content/uploads/2024/05/tone_touch04-product.webp",
+        "https://tonebrewer.com/wp-content/uploads/2025/02/tone_touch04-outline.png",
+        "https://tonebrewer.com/wp-content/uploads/2024/05/tone_touch04-wantmore.webp",
+        "https://tonebrewer.com/wp-content/uploads/2024/05/tone_touch04-back.webp"
+      ],
+      "specs": {
+        "power": "220–240V, 50/60Hz (two-phase, fused to 16A)",
+        "heating": "6900 W",
+        "flow": "16 g/sec",
+        "weight": "22 kg",
+        "brewing_volume_max": "4 L",
+        "boiler": "Boilerless — advanced batch brewing technology",
+        "cold_brew_time": "Cold filter coffee ready in 35 minutes",
+        "recipe_buttons": "4 programmable recipe buttons",
+        "recipes": "Unlimited via TONE Beverage Manager software",
+        "features": "Basket detection & locking system, condensation backflow directed into brew basket, dishwasher-safe brew basket carrier, bypass functionality for concentrate dilution, iced coffee brewing"
+      },
+      "description": "The TONE Touch 04 features enhanced brew capacity and control with advanced 100% Boilerless Technology. Baristas can precisely adjust settings for optimal results, while the TONE Beverage Manager software allows for unlimited recipe creation and sharing. With 4 programmable recipe buttons, versatile customization is at your fingertips. Basket detection and locking system ensure safety during the brewing process. Cold filter coffee is ready in 35 minutes. Optimized bypass functionality allows for concentrate dilution. Supports iced coffee brewing directly into an ice kit. Nominated for SCA Best New Product at World of Coffee Copenhagen 2024.",
+      "source_url": "https://tonebrewer.com/produkte/touch-04/"
+    },
+    {
+      "id": "tn-tone",
+      "name": "Tone",
+      "brand": "Tone Swiss",
+      "images": [],
+      "specs": {},
+      "description": "NOT FOUND on current tonebrewer.com website. This is likely an older/discontinued model (possibly the 'Touch 01' or original 'Tone' base unit from pre-2022 era). No manufacturer images or specifications available. Client should confirm whether this product is still sold and provide correct imagery.",
+      "source_url": "https://tonebrewer.com/produkte/",
+      "scrape_status": "NOT_FOUND_DISCONTINUED"
+    },
+    {
+      "id": "tn-nitro",
+      "name": "Tone Nitro",
+      "brand": "Tone Swiss",
+      "images": [],
+      "specs": {},
+      "description": "NOT FOUND on current tonebrewer.com website. The Nitro cold brew product is not listed in the current product lineup (Touch 03, Touch 04, Green Clean). No manufacturer images or specifications available. Client should confirm whether this product is still sold and provide correct imagery.",
+      "source_url": "https://tonebrewer.com/produkte/",
+      "scrape_status": "NOT_FOUND_DISCONTINUED"
+    }
+  ]
+}

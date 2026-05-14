@@ -1,0 +1,114 @@
+{
+  "group": "puly-cleanon",
+  "scraped_date": "2026-05-08",
+  "source": "georgopoulos.com.gr",
+  "total": 10,
+  "products": [
+    {
+      "id": "cl-pulycaff",
+      "name": "PULY CAFF",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_b6f4849df05a43eb95767487d7dfef27~mv2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_e8600f3035954454bebd2525de889a65~mv2_d_1200_1200_s_2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_f3f90e51a5a349d4bf6f92f2813e59fc~mv2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_63ad27d8beae49088349437e9099dd1d~mv2_d_1600_3322_s_2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_fc0c0e11ac3443cc995b9b30c2a98b8a~mv2_d_1200_1200_s_2.jpg",
+        "https://static.wixstatic.com/media/fae23e_51870ad3919f4a32937206f31be2f6fc~mv2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_2ddc22b5dd2b40a097639e7b1d13299e~mv2.jpg"
+      ],
+      "description": "Σκόνη Καθαρισμού Puly CAFF Plus NSF Περισσότερα Ταμπλέτες Καθαρισμού CAFF NSF CAFF Verde Υγρό καθαρισμού ακροφυσίων Puly MILK Plus Liquid Καθαριστικό μύλου καφέ Puly GRIND Cristalli Υγρό καθαρισμού Puly Bar Igienic Spray",
+      "source_url": "https://www.georgopoulos.com.gr/pulycaff",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulycaffnsf",
+      "name": "PULY CAF NSF",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_e8600f3035954454bebd2525de889a65~mv2_d_1200_1200_s_2.jpg"
+      ],
+      "description": "PULY CAFF NSF Καθαριστικό μηχανής espresso σε δοχείο με ενσωματωμένο δοσομετρητή. Απομακρύνει τα υπολείμματα καφέ από τα groups, τις ηλεκτροβαλβίδες και από το κύκλωμα νερού Ιδανικό για συντήρηση των μηχανών espresso και των ανταλλακτικών τους Πτερύγιο με προσαρμοσμένο δοσομετρητή. Διαθέσιμο σε: κουτί 900 gr.",
+      "source_url": "https://www.georgopoulos.com.gr/pulycaffnsf",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulycaffplus",
+      "name": "PULY CAFF Plus® Tabs NSF",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_f3f90e51a5a349d4bf6f92f2813e59fc~mv2.jpg"
+      ],
+      "description": "PULY CAFF Plus® Tabs NSF Απορρυπαντικό για υπεραυτόματες μηχανές espresso σε βαθμονομημένες ταμπλέτες των 16 mm. Αφαιρεί τα υπολείμματα καφέ από τα groups καφέ, τις ηλεκτροβαλβίδες και το κύκλωμα νερού. Ιδανικό για τη συντήρηση των υπεραυτόματων και χειροκίνητων μηχανών espresso. Πρακτικό μέγεθος για όλους τους τύπους μηχανών.",
+      "source_url": "https://www.georgopoulos.com.gr/pulycaffplus",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulycaffverde",
+      "name": "Puly Caff Verde",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_63ad27d8beae49088349437e9099dd1d~mv2_d_1600_3322_s_2.jpg"
+      ],
+      "description": "Puly CAFF Verde Ο Ιταλικός οίκος Asachimici, αναγνωρίζοντας τη σημασία της προστασίας του περιβάλλοντος διαθέτει τη σειρά Verde. Κατασκευασμένο αποκλειστικά από βιώσιμα υλικά, το Puly Caff Verde είναι 100% οργανικό. Kύριο χαρακτηριστικό του είναι η μη χρήση φωσφορικών αλάτων, γεγονός που δε μειώνει τη δράση του προϊόντος, απλά επεκτείνει κατ' ελάχιστο το χρόνο δράσης του.",
+      "source_url": "https://www.georgopoulos.com.gr/pulycaffverde",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulymilk",
+      "name": "PULY MILK Plus® Liquid NSF 1000ml",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_fc0c0e11ac3443cc995b9b30c2a98b8a~mv2_d_1200_1200_s_2.jpg"
+      ],
+      "description": "PULY MILK Plus® Liquid NSF 1000ml Απορρυπαντικό για ακροφύσια και λήπτες γάλακτος Απομακρύνει τα υπολείμματα της πρωτεΐνης του γάλακτος Ιδανικό για τη συντήρηση ακροφυσίων και ανοξείδωτων κανατών Συμπεριλαμβάνεται δοσομετρητής στο δοχείο 20 δόσεων (1 λίτρο)",
+      "source_url": "https://www.georgopoulos.com.gr/pulymilkplus",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulymilkverde",
+      "name": "Verde Puly Milk Liquid",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_9e10560fcdaf46ae9fe411e9e3625141~mv2.jpg"
+      ],
+      "description": "Verde Puly Milk Liquid",
+      "source_url": "https://www.georgopoulos.com.gr/verdepulymilkliquid",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulybari",
+      "name": "PULY BAR IGIENIC SPRAY",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_2ddc22b5dd2b40a097639e7b1d13299e~mv2.jpg"
+      ],
+      "description": "PULY BAR IGIENIC SPRAY Καθαρίζει και απολυμαίνει όλες τις επιφάνειες και τον εξοπλισμό σε κάθε είδους  κατασκευή όπως: ανοξείδωτο ατσάλι, λάκα, μάρμαρο, πλαστικό, γυαλί, κρύσταλλο, καθρέφτη, τουαλέτες, σανίδες κοπής, μαχαίρια κλπ.",
+      "source_url": "https://www.georgopoulos.com.gr/pulybarigienicspray",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulygrind",
+      "name": "PULY GRIND Cristalli",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_51870ad3919f4a32937206f31be2f6fc~mv2.jpg"
+      ],
+      "description": "PULY GRIND Cristalli Verde Το Puly Grind είναι ένα εξαιρετικό καθαριστικό μαχαιριών μύλου άλεσης καφέ. Η ειδική του δράση, επιτρέπει τον καθαρισμό των μαχαιριών δίχως να είναι απαραίτητη η αφαίρεσή τους. Το καθάρισμα του μύλου γίνεται πλέον εύκολη υπόθεση. Διαθέσιμο σε κρυστάλλους Δεν απαιτείται αλλαγή ρυθμίσεων στα μαχαίρια του μύλου Καινοτόμος πατενταρισμένη τεχνολογία Με ενεργά φυσικά συστατικά, κατάλληλα για χρήση σε τροφές Βελτιώνει την κρέμα, το άρωμα και την γεύση του καφέ Απορρόφηση των ελαίων και απομάκρυνση των λιπών Υψηλά πρότυπα ασφάλειας Διαθέσιμο σε: Κουτί με 10 σακουλάκια Δίχως Γλουτένη ή Αλλεργιογόνα",
+      "source_url": "https://www.georgopoulos.com.gr/pulygrindcristalli",
+      "status": "ok"
+    },
+    {
+      "id": "cl-pulydescaler",
+      "name": "PULY CLEANER Descaler®",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_fc9f2918ea8744be9b333104b574202f~mv2.jpg"
+      ],
+      "description": "PULY CLEANER Descaler®",
+      "source_url": "https://www.georgopoulos.com.gr/pulycleanerdescaler",
+      "status": "ok"
+    },
+    {
+      "id": "cl-cleanon",
+      "name": "Σκόνη Καθαρισμού Clean On",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_65a18ff59c394cb194448605fb025ca2~mv2.png"
+      ],
+      "description": "Σκόνη καθαρισμού Clean On Καθαριστική σκόνη μηχανής espresso σε συσκευασία 900 γραμμαρίων Απομακρύνει τα υπολείμματα καφέ από τα groups, τις ηλεκτροβαλβίδες και το κύκλωμα νερού. Ιδανική λύση καθαρισμού για τη σωστή συντήρηση τόσο της μηχανής όσο και των ανταλλακτικών.",
+      "source_url": "https://www.georgopoulos.com.gr/skonikatharismoucleanon",
+      "status": "ok"
+    }
+  ]
+}

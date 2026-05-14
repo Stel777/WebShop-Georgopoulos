@@ -1,0 +1,80 @@
+{
+  "brand": "Bentwood",
+  "manufacturer_url": "https://www.bentwoodcoffee.com",
+  "scraped_date": "2026-05-09",
+  "notes": "Bentwood website (bentwoodcoffee.com) returns HTTP 403 Forbidden on all pages — all URL paths (/products/v63, /products/h75, /collections/all, /shop, /grinders, /) are blocked. Sitemap also 403. No Wayback Machine snapshots exist for this domain. Extensive search across 30+ retailer and review sites failed (404/ECONNREFUSED/403 throughout). Product data sourced entirely from georgopoulos.com.gr existing scrape, which contains detailed specifications and multiple Wixstatic CDN images. Data is reliable as it came from the Greek distributor's own product pages.",
+  "products": [
+    {
+      "id": "bw-v63",
+      "name": "V63 Grinder",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_12e9fa05d10d4ebd862946b6b2fcb772f000.jpg",
+        "https://static.wixstatic.com/media/fae23e_96da137e479546fab3b2540156d9f895~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_6a20cc3bcd1b408c8720869d76ce48a1~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_988884b873f746ed924ed5370c920a72~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_32c376b315914cb6a09d9b773adadc31~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_de1698c8d5254b00b9a04659e16aeee8~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_42dfcbe2ed3642f1b80e58078a6960a1~mv2.jpg",
+        "https://static.wixstatic.com/media/fae23e_4b4eefb730c14b9396f8845d8fd422e0~mv2.jpg"
+      ],
+      "specs": {
+        "burr_size": "63mm flat burrs",
+        "burr_material": "Steel",
+        "rpm": "1400 rpm",
+        "max_power": "660 W",
+        "dimensions_WxDxH": "198 x 415 x 570 mm",
+        "net_weight": "21 kg",
+        "hopper_capacity": "600g",
+        "dosing_mode": "Time-based dosing",
+        "portafilter_fork": "Included (compatible with all portafilters, removable or fixed)",
+        "dosing_funnel": "58mm dosing funnel included",
+        "cleaning_brush": "Included",
+        "standard_colors": "Black",
+        "panel_options": ["Light Oak", "Dark Oak", "Walnut"],
+        "customization": "Available on request",
+        "features": [
+          "Vertical cutting flat 63mm burrs with unique geometry",
+          "Dual cooling system",
+          "Near-silent operation",
+          "Low retention",
+          "Time-based dosing",
+          "Airtight hopper with sealing mechanism to prevent oxidation",
+          "Ergonomic hopper design"
+        ]
+      },
+      "description": "The Bentwood V63 is a vertical-cut flat burr grinder with unique 63mm burr geometry. Delivers exceptional flavour at any grind level. Features a dual cooling system for consistent performance, near-silent operation, and very low retention. Time-based dosing system. Portafilter fork is removable or fixed and compatible with all portafilters. Includes a 58mm dosing funnel and cleaning brush. Highly durable hopper with special sealing mechanism to prevent bean oxidation. Available in Black with panel options in Light Oak, Dark Oak, or Walnut. Custom configurations available on request.",
+      "source_url": "https://www.georgopoulos.com.gr/μύλος-άλεσης-καφέ-bentwoodv63"
+    },
+    {
+      "id": "bw-h75",
+      "name": "H75 Grinder",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_6b4ea9477d0b4044a0588d252cf12b91f000.jpg",
+        "https://static.wixstatic.com/media/fae23e_96da137e479546fab3b2540156d9f895~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_e37b5da7149e4a38b7fc446138180d44~mv2.png",
+        "https://static.wixstatic.com/media/fae23e_a62354064d694fa0ab4fbfe1f45afa03~mv2.jpg",
+        "https://static.wixstatic.com/media/fae23e_6b153d0905294d878e83434a848c2dc2~mv2.jpg",
+        "https://static.wixstatic.com/media/fae23e_e49d8e7b8b6f49df87170d57209c621d~mv2.jpg",
+        "https://static.wixstatic.com/media/fae23e_15e0a8795e6148c0869e6d403c6be89b~mv2.png"
+      ],
+      "specs": {
+        "burr_size": "75mm flat burrs (blind)",
+        "burr_geometry": "Unique geometry flat burrs",
+        "dosing_mode": "Weight-based dosing (0.1g accuracy)",
+        "espresso_grind_speed": "7g/s",
+        "dimensions_WxDxH": "17 x 30 x 44 cm",
+        "features": [
+          "On-demand electronic grinder",
+          "Weight-based dosing with 0.1g precision",
+          "Automatic grind level adjustment system",
+          "Flexible use: weight-based, time-based, or Barista mode",
+          "Near-silent operation",
+          "Precision Scale Grinding technology"
+        ],
+        "operating_modes": ["Weight-based grinding", "Time-based grinding", "Barista mode"]
+      },
+      "description": "The Bentwood H75 is an electronic on-demand grinder with unique geometry 75mm blind flat burrs. Features weight-based dosing with 0.1g accuracy via Precision Scale Grinding technology. Automatic grind level adjustment system for consistency. Flexible operation: grind by weight, by time, or in Barista mode. Espresso grind speed of 7g/s. Near-silent operation. Compact dimensions at 17x30x44cm. Delivers exceptional flavour at any grind level.",
+      "source_url": "https://www.georgopoulos.com.gr/μύλος-άλεσης-καφέ-bentwoodvh75"
+    }
+  ]
+}

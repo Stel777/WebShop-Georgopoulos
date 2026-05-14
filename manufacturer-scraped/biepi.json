@@ -1,0 +1,17 @@
+{
+  "brand": "Biepi",
+  "manufacturer_url": "https://www.biepi.it",
+  "scraped_date": "2026-05-11",
+  "notes": "biepi.it is a parked/premium domain listed for sale. No active Biepi manufacturer website was found on any domain variant attempted: biepi.it (parked/for sale via Typeform premium domain page), biepi.com (SSL certificate expired), biepi.eu (SSL certificate error), biepiespresso.com (connection refused), biepicaffe.it (not accessible). No product data could be scraped.",
+  "products": [
+    {
+      "id": "bp-dz12",
+      "name": "DZ12",
+      "images": [],
+      "specs": {},
+      "description": "Biepi DZ12 knock box or dosing/grinding accessory. No product data could be retrieved — the Biepi manufacturer website is currently unavailable across all known domain variants.",
+      "source_url": "https://www.biepi.it",
+      "availability_notes": "Manufacturer website unavailable. biepi.it is a parked domain for sale. All other domain variants (biepi.com, biepi.eu, biepiespresso.com, biepicaffe.it) returned SSL errors or connection failures as of 2026-05-11."
+    }
+  ]
+}

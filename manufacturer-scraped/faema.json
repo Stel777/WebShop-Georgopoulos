@@ -1,0 +1,23 @@
+{
+  "brand": "Faema",
+  "manufacturer_url": "https://www.faema.com",
+  "scraped_date": "2026-05-09",
+  "products": [
+    {
+      "id": "fa-e71e",
+      "name": "E71 E",
+      "images": [],
+      "specs": {},
+      "description": "A new Faema.com is coming, renewed and full of new features. Get to know and comfortably choose the machine that best suits your needs! Meanwhile, discover the new exclusive Faema Home Design Experience with  Faemina ! Come back to visit us... in a coffee break time!",
+      "source_url": "https://www.faema.com/en/machines/e71-e"
+    },
+    {
+      "id": "fa-e71touch",
+      "name": "E71 E Touch",
+      "images": [],
+      "specs": {},
+      "description": "A new Faema.com is coming, renewed and full of new features. Get to know and comfortably choose the machine that best suits your needs! Meanwhile, discover the new exclusive Faema Home Design Experience with  Faemina ! Come back to visit us... in a coffee break time!",
+      "source_url": "https://www.faema.com/en/machines/e71-e-touch"
+    }
+  ]
+}

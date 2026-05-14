@@ -1,0 +1,331 @@
+{
+  "brand": "Motta",
+  "manufacturer_url": "https://www.metallurgicamotta.it",
+  "scraped_date": "2026-05-09",
+  "notes": "Manufacturer site (metallurgicamotta.it) is a Next.js SPA requiring JS rendering; product catalogue structure was mapped via static category pages and search results. Product images sourced from metallurgicamotta.it/images/products/ CDN (confirmed accessible via WebFetch). Supplementary images and descriptions from bravobarista.it (official Motta distributor). Image URL patterns discovered via /_next/image query params. Bentwood-style 'no results found' search confirms multicolour pitcher uses Tulip line (model 4050 series) — the product name 'Multicolour Pitcher' is the Greek distributor's label for the coloured Tulip/Europa range.",
+  "products": [
+    {
+      "id": "mt-europa",
+      "name": "Europa Pitcher",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/901.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/901-LATTIERA-EUROPA-35-50-75CL.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/2435-LATTIERA-EUROPA-BIANCA-35-50-75CL.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/2535-LATTIERA-EUROPA-NERA-35-50-75CL.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/2635-LATTIERA-EUROPA-ARANCIO-35-50-75CL.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/2735-LATTIERA-EUROPA-ROSSA-35-50-75CL.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/2835-LATTIERA-EUROPA-VERDE-35-50-75CL.webp",
+        "https://static.wixstatic.com/media/bff2ed_8b078abf9afc4e24b57617a20e9a50e9~mv2.png"
+      ],
+      "specs": {
+        "material": "Stainless steel 18/10",
+        "available_capacities": ["25cl", "35cl", "50cl", "75cl", "100cl", "150cl"],
+        "available_colors": ["Stainless steel", "White", "Black", "Orange", "Red", "Green"],
+        "dishwasher_safe": true,
+        "product_codes": ["901", "2450", "2550", "2650", "2750", "2850"]
+      },
+      "description": "The Europa Pitcher from Metallurgica Motta is the professional stainless steel milk pitcher designed for baristas with high demands in daily work. Made from premium quality stainless steel suitable for dishwasher cleaning. Delivers exceptional milk mixing and distribution. Designed in collaboration with the Italian Barista Association. Available in multiple sizes (25cl to 150cl) and colours including stainless steel, white, black, orange, red, and green.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/milk-jugs/europa"
+    },
+    {
+      "id": "mt-multicolour",
+      "name": "Multicolour Pitcher",
+      "images": [
+        "https://static.wixstatic.com/media/bff2ed_a977907efbe347bca4170c26b16cfb15~mv2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_db2dbb4721fa44f8bd63fe0222089a35~mv2.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/4050-G-LATTIERA-TULIP-GIALLA.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/4050-N-LATTIERA-TULIP-NERA.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/4050-B-LATTIERA-TULIP-BLU.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/4050-LATTIERA-TULIP-ACCIAIO.webp"
+      ],
+      "specs": {
+        "material": "Stainless steel",
+        "available_capacities": ["35cl", "50cl", "75cl"],
+        "available_colors": ["Green", "Orange", "Red", "White", "Black", "Blue", "Yellow"],
+        "product_codes": ["4050", "4150", "4250", "4450", "4550"]
+      },
+      "description": "The Multicolour Pitcher from Metallurgica Motta combines distinctive design with high quality construction, making it an indispensable tool for success in latte art. Professional milk pitcher made from high quality materials. Exceptional milk mixing and distribution. Designed in collaboration with the Italian Barista Association. Available in multiple vibrant colours: Green, Orange, Red, White, Black, Blue, and Yellow. Available in 50cl and 75cl versions.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/milk-jugs/tulip-line"
+    },
+    {
+      "id": "mt-9bar",
+      "name": "9Bar Coffee Tamper",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/650.jpg",
+        "https://static.wixstatic.com/media/bff2ed_dbaffbb2749745afa16f5a4681a161b2~mv2.jpg"
+      ],
+      "specs": {
+        "material": "Stainless steel base, ergonomic black wooden handle",
+        "diameter": "58mm",
+        "product_code": "650",
+        "category": "Aluminium & Steel tampers"
+      },
+      "description": "The Motta 9Bar Coffee Tamper (58mm) has been designed in collaboration with the renowned 9Bar barista school. Features an exceptionally ergonomic handle and elegant stainless steel base. The ergonomic wooden handle in black colour provides stable and comfortable tamping. The stainless steel base ensures uniform coffee compression for balanced espresso extraction.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/aluminium-steel"
+    },
+    {
+      "id": "mt-leveling",
+      "name": "Coffee Leveling Tool",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/8350.jpg",
+        "https://www.metallurgicamotta.it/images/products/8370.jpg",
+        "https://www.metallurgicamotta.it/images/products/8400.jpg",
+        "https://static.wixstatic.com/media/bff2ed_11952417509e4b63ab205628e250fd8b~mv2.jpg"
+      ],
+      "specs": {
+        "available_sizes": ["53mm", "57mm", "58mm", "58.5mm"],
+        "available_versions": ["Black (8350)", "Red (8370)", "With wood handle (8400)", "Black White pattern (6173)", "Carbon Look pattern (6273)", "Flower pattern (6373)", "Globe pattern (6673)"],
+        "product_codes": ["8350", "8370", "8400", "6173", "6273", "6373", "6673"]
+      },
+      "description": "The Coffee Leveling Tool from Metallurgica Motta is widely used by baristas worldwide. The need for higher quality product and the desire for increased consistency make the use of Metallurgica Motta Coffee Leveling Tool essential. Evenly distributes coffee grounds in the portafilter basket before tamping for more consistent extraction. Available in multiple versions and sizes from 53mm to 58.5mm.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/leveling-tools"
+    },
+    {
+      "id": "mt-bubinga",
+      "name": "Bubinga Tamper",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/110.jpg",
+        "https://www.metallurgicamotta.it/images/products/111.jpg",
+        "https://static.wixstatic.com/media/bff2ed_c25e699fb58b4bf89a08cc4e981b5b40~mv2.jpg"
+      ],
+      "specs": {
+        "material_handle": "Bubinga tropical wood",
+        "material_base": "Stainless steel",
+        "diameter": "58mm",
+        "base_styles": ["Flat/plane base (110)", "Convex base (111)"],
+        "product_codes": ["110", "111"]
+      },
+      "description": "The Motta Bubinga Coffee Tamper (58mm) is, as its name indicates, constructed from the exotic tropical Bubinga wood. The distinctive handle provides stability and aesthetic elegance in the preparation of the perfect espresso. Features an ergonomic construction with a 58mm diameter stainless steel base. The Bubinga wood grain provides a unique and premium feel. Available with flat (plane) or convex stainless steel base.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/wood-steel"
+    },
+    {
+      "id": "mt-rainbow",
+      "name": "Rainbow Tamper",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/6800.jpg",
+        "https://static.wixstatic.com/media/bff2ed_54ce313c13b349f89fef799ca315cc95~mv2.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/6181-PRESSINO-BLACK-WHITE.webp"
+      ],
+      "specs": {
+        "material": "Stainless steel",
+        "diameter": "58mm",
+        "design": "Multicolour / decorative pattern",
+        "product_codes": ["6800"],
+        "note": "Also referred to as Stripes coffee tamper in manufacturer catalogue (code 6800)"
+      },
+      "description": "The Metallurgica Motta Rainbow Tamper features a distinctive multicolour decorative design on the stainless steel body. The eye-catching striped/rainbow pattern distinguishes the barista who uses it, adding a personal touch to espresso preparation. The flat stainless steel tamping base at 58mm ensures uniform coffee compression. The colourful design makes it a standout accessory behind the espresso bar.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/wood-steel"
+    },
+    {
+      "id": "mt-doublediam",
+      "name": "Double Diameter Tamper",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/1470.jpg",
+        "https://static.wixstatic.com/media/bff2ed_110d105301764d2a8863700b4dbf8da0~mv2_d_1384_1500_s_2.jpg"
+      ],
+      "specs": {
+        "material": "Anodized aluminium",
+        "diameter_1": "58mm",
+        "diameter_2": "53mm",
+        "product_code": "1470",
+        "category": "Aluminium tampers"
+      },
+      "description": "The Double Diameter Tamper from Metallurgica Motta is one of the most user-friendly and practical models from the brand. Being a double-sided tamper with 2 different diameters (53mm and 58mm), it gives the barista the ability to be functional in almost every situation. The all-aluminium construction is durable and lightweight. One tool covers the two most common portafilter basket sizes.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/aluminium"
+    },
+    {
+      "id": "mt-wave",
+      "name": "Wave Tamper",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/8500.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/8500-PRESSINO-WAVE.webp",
+        "https://static.wixstatic.com/media/bff2ed_8b4a7b81d7414f78bb03e432c1f321ab~mv2.jpg"
+      ],
+      "specs": {
+        "material_base": "Stainless steel 18/10 with concentric wave pattern",
+        "material_handle": "Wood (detachable)",
+        "diameter": "58mm",
+        "handle_colors": ["Brown wood", "Red", "Black"],
+        "base_dishwasher_safe": true,
+        "product_codes": ["8500/M", "8500/R", "8500/B"]
+      },
+      "description": "The Wave Coffee Tamper from Metallurgica Motta features an exclusive concentric wave pattern on the stainless steel base. This particular design promotes more homogeneous water infiltration through the ground coffee, improving the final extraction. The detachable wooden handle allows the base to be washed in the dishwasher. Available in brown wood, red, or black handle versions. Diameter: 58mm.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/wood-steel"
+    },
+    {
+      "id": "mt-58mm",
+      "name": "Tamper 58mm",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/620.jpg",
+        "https://www.metallurgicamotta.it/images/products/621.jpg",
+        "https://static.wixstatic.com/media/bff2ed_f257e516c1d046f4b44eae5e0743f232~mv2.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/620-PRESSINO-MANICO-IN-ALLUMINIO-1.webp"
+      ],
+      "specs": {
+        "material_base": "Stainless steel 18/10 (AISI 304)",
+        "material_handle": "Aluminium (anodized, ergonomic) or wood",
+        "diameter": "58mm",
+        "base_styles": ["Flat/plane (620)", "Convex (621)"],
+        "available_colors": ["Wood", "Black", "Red", "Aluminium"],
+        "product_codes": ["620", "621"]
+      },
+      "description": "The Metallurgica Motta 58mm Tamper is distinguished both by its simple, elegant design and its high performance in the hands of a professional barista. Features a stainless steel 18/10 base with ergonomic aluminium or wood handle. Recognised by the Barista Association of Italy. The flat stainless steel base ensures uniform coffee compression. Available with wood, black, red, or aluminium handle options.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tampers/aluminium-steel"
+    },
+    {
+      "id": "mt-kitroma",
+      "name": "Barista Kit Roma",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/7580.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/7580-BARISTA-KIT-ROMA.webp",
+        "https://static.wixstatic.com/media/bff2ed_3ef19595904243eab42851f286aafbbf~mv2.jpg"
+      ],
+      "specs": {
+        "product_code": "7580",
+        "included_items": [
+          "Europa milk pitcher 75cl",
+          "Europa milk pitcher 50cl",
+          "Wooden coffee tamper 58mm (coloured)",
+          "Tamper replacement base",
+          "Tasting spoon",
+          "Cocoa/chocolate shaker"
+        ]
+      },
+      "description": "The Barista Kit Roma from Metallurgica Motta is the most complete solution accompanying the modern barista at every step. The comprehensive kit includes: Europa milk pitcher 75ml, Europa milk pitcher 50ml, wooden coffee tamper with colour in 58mm diameter, tamper replacement base, tasting spoon, and cocoa shaker. Everything a barista needs for professional espresso and latte art service.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/barista-kit"
+    },
+    {
+      "id": "mt-kittorino",
+      "name": "Barista Kit Torino",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/7500.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/7500-BARISTA-KIT-TORINO.webp",
+        "https://static.wixstatic.com/media/bff2ed_3ef58696c4414c98bcad79fbadb3db6c~mv2.jpg"
+      ],
+      "specs": {
+        "product_code": "7500",
+        "included_items": [
+          "Milk pitcher 75cl",
+          "Coffee tamper 58mm",
+          "Cocoa/chocolate shaker",
+          "Milk thermometer"
+        ]
+      },
+      "description": "The Barista Kit Torino from Metallurgica Motta is an extremely practical and quality choice for every barista. It contains the essential items used by the modern barista on a daily basis: 1 milk pitcher 0.75L, 1 easy-to-use coffee tamper with 58mm diameter, 1 cocoa/chocolate shaker, and 1 milk thermometer. A complete starter kit for professional espresso service.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/barista-kit"
+    },
+    {
+      "id": "mt-lattepen",
+      "name": "Latte-Art Pen",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/660.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/660-PENNA-LATTE-ART-ACCIAIO.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/660B-PENNA-LATTE-ART-BLU.webp",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/660R-PENNA-LATTE-ART-ROSSA.webp",
+        "https://static.wixstatic.com/media/bff2ed_af96b156990d4f97b6bd868ef977ad26~mv2.jpg"
+      ],
+      "specs": {
+        "length": "13.5cm",
+        "available_colors": ["Stainless steel", "Blue", "Red"],
+        "material": "Stainless steel",
+        "product_codes": ["660", "660/B", "660/R"]
+      },
+      "description": "An essential accessory for achieving extraordinary designs in the cup. The Latte-Art Pen from Metallurgica Motta ensures absolute precision in the barista's movements, giving them the ability to create masterpieces. The fine tip allows detailed control for etching patterns into milk foam. Available in stainless steel, blue, and red colour options. Length: 13.5cm.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/barista-accessories"
+    },
+    {
+      "id": "mt-thermo",
+      "name": "Milk Thermometer",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/365.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/365-TERMOMETRO-PER-LATTIERA.webp",
+        "https://static.wixstatic.com/media/bff2ed_dc28719165be4dae9344177e7991c147~mv2_d_1200_1200_s_2.jpg"
+      ],
+      "specs": {
+        "product_code": "365",
+        "type": "Milk pitcher thermometer",
+        "material": "Stainless steel probe"
+      },
+      "description": "An essential tool for every barista who wants to maintain high standards of quality and consistency in their beverages. Temperature plays a decisive role in milk steaming, making targeted temperature monitoring necessary. The Metallurgica Motta milk thermometer (product code 365) attaches to the milk pitcher for accurate real-time temperature readings during steaming.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/barista-accessories"
+    },
+    {
+      "id": "mt-tamperbase",
+      "name": "Tamper Base",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/680.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/265-TAMPING-MAT.webp",
+        "https://static.wixstatic.com/media/bff2ed_bc043d97d6fe4aff8d29ad3e54ab624c~mv2.jpg"
+      ],
+      "specs": {
+        "material": "Stainless steel",
+        "dimensions": "15.5cm x 10.5cm",
+        "height": "5.4cm",
+        "product_codes": ["680", "4910", "4920", "8210", "8215", "8217"],
+        "available_versions": ["Standard (680)", "With tamper holder (680/KT)", "Black (8215)", "Red (8217)"]
+      },
+      "description": "The traditional tamper base takes on a new form through the design lines of Metallurgica Motta. Both its high quality and distinctive design make it a very useful tool for every barista. Made from stainless steel with dimensions 15.5cm x 10.5cm and height 5.4cm. Provides a stable, non-slip surface for consistent tamping technique and protects the work surface.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tamping-stand"
+    },
+    {
+      "id": "mt-dosingglass",
+      "name": "Dosing Glass Set",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/5350.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/1412-CAFFEINO-GRADUATO.webp",
+        "https://static.wixstatic.com/media/bff2ed_ed56ab5033aa4b599de8b2c2530409ed~mv2.jpg",
+        "https://static.wixstatic.com/media/bff2ed_7322bda117974af88b85a73d59f93b84~mv2.jpg"
+      ],
+      "specs": {
+        "set_quantity": 6,
+        "diameter": "60mm",
+        "product_codes": ["5350", "1412"],
+        "variants": ["Coffee dosing cup 60mm (5350)", "Set 6 pcs graduated coffee glass (1412)"]
+      },
+      "description": "The Dosing Glass Set from Metallurgica Motta is the barista's ally, facilitating them during demanding shifts. Based on traditional dosers, the company gave a new style using minimalist lines. The set of 6 graduated coffee measuring glasses provides consistent dosing for espresso preparation. Available as a single dosing cup (60mm, code 5350) or a set of 6 graduated glasses (code 1412).",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/barista-accessories"
+    },
+    {
+      "id": "mt-knockbox",
+      "name": "Knock Box",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/8250.jpg",
+        "https://www.metallurgicamotta.it/images/products/7750.jpg",
+        "https://www.metallurgicamotta.it/images/products/3100.jpg",
+        "https://www.bravobarista.it/shop_new_wp/wp-content/uploads/2024/09/8250-BATTI-FILTRO_14_11zon.webp",
+        "https://static.wixstatic.com/media/bff2ed_43e89ea8c7a5467aa548895df0eaa9ae~mv2.jpg"
+      ],
+      "specs": {
+        "material": "Polished stainless steel",
+        "available_models": [
+          "Small knock box 105mm (7750)",
+          "Knock box with removable bar 125mm (3100)",
+          "Professional knock box 165mm (8250)"
+        ],
+        "product_codes": ["7750", "3100", "8250"],
+        "description_finish": "Mirror-polished stainless steel with stable base"
+      },
+      "description": "An extremely reliable knock box for depositing used coffee pucks. The Metallurgica Motta knock box features distinctive aesthetics with mirror-polished stainless steel, a stable base, and easy cleaning, making it a very practical tool for the barista. Available in three sizes: small (105mm, code 7750), medium with removable bar (125mm, code 3100), and professional (165mm, code 8250).",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/tamping-stand"
+    },
+    {
+      "id": "mt-sscups",
+      "name": "Stainless Steel Cups",
+      "images": [
+        "https://www.metallurgicamotta.it/images/products/1512.jpg",
+        "https://www.metallurgicamotta.it/images/products/1514.jpg",
+        "https://static.wixstatic.com/media/bff2ed_7ec1148b90624e1db74a82035587a332~mv2.jpg"
+      ],
+      "specs": {
+        "available_types": [
+          "Espresso cups with saucer set (1512) - 8cl, set of 2",
+          "Cappuccino cups with saucer set (1514) - 16cl, set of 2"
+        ],
+        "material": "Stainless steel",
+        "product_codes": ["1512", "1514"]
+      },
+      "description": "The stainless steel espresso and cappuccino cups from Metallurgica Motta are an integral part of every café that wants to impress consumers both with the quality of its products and with an aesthetically pleasing and elegant service. Available as espresso cups with saucer (8cl, set of 2, code 1512) and cappuccino cups with saucer (16cl, set of 2, code 1514). Professional stainless steel construction for durability and a premium presentation.",
+      "source_url": "https://www.metallurgicamotta.it/en/category/bar-accessories/espresso-trays-cups"
+    }
+  ]
+}

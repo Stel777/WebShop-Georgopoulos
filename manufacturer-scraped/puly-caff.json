@@ -1,0 +1,201 @@
+{
+  "brand": "Puly Caff",
+  "manufacturer_url": "https://www.pulicaff.com",
+  "scraped_date": "2026-05-08",
+  "products": [
+    {
+      "id": "cl-pulycaff",
+      "name": "Puly Caff Plus",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF-COD.0851000-WCC2025-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF-COD.0852000-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0853000-FRONTE-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/pulyCAFF-monodosi-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/pulyCAFF-Monodosi_120-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/PULYCAFF_foto1.1_sito_pulycaff-1000x1000.jpg"
+      ],
+      "specs": {
+        "format": "powder",
+        "sizes": [
+          "900g jar (100% recycled plastic)",
+          "570g jar (100% recycled plastic)",
+          "370g jar (30% recycled plastic)",
+          "Box of 10 x 30g sachets",
+          "Box of 120 x 3.5g single-dose sachets"
+        ],
+        "certifications": ["NSF International", "HACCP", "FDA-recognized"]
+      },
+      "description": "Removes coffee residues and fat deposits, while preventing the formation of unpleasant odors inside the grouphead, the discharge valve and all water passages of the espresso machine, including filters and portafilters. NSF International certified and formulated with FDA-recognized materials, it supports equipment longevity and reduces maintenance-related breakdowns.",
+      "source_url": "https://www.pulicaff.com/en/product/pulycaff-plus/"
+    },
+    {
+      "id": "cl-pulycaffnsf",
+      "name": "Puly Caff Plus NSF Tabs",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Pastiglie-05gr-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Pastiglie-1gr-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Pastiglie-135gr-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Pastiglie-25gr-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0868000-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0866000-RETRO-1000x1000.png"
+      ],
+      "specs": {
+        "format": "tablets",
+        "sizes": [
+          "70 tablets x 0.5g (Ø 10mm, 5mm depth)",
+          "100 tablets x 1g (Ø 10mm, 10mm depth)",
+          "100 tablets x 1.35g (Ø 16mm flat, 5mm depth)",
+          "60 tablets x 2.5g (Ø 16mm, 10mm depth)",
+          "100 tablets x 5g (Ø 20mm, 13mm depth)"
+        ],
+        "packaging": "jar",
+        "certifications": ["NSF International", "HACCP", "FDA-recognized"]
+      },
+      "description": "Superautomatic espresso machine cleaner in tablet form. Removes coffee residues and grease deposits while preventing unpleasant odors in dispensing groups and water passages. Complies with HACCP regulations and is NSF International certified, formulated with USFDA-recognized ingredients. Available in five tablet sizes to suit different machine types.",
+      "source_url": "https://www.pulicaff.com/en/product/pulycaff-plus-pastiglie-nsf/"
+    },
+    {
+      "id": "cl-pulycaffverde",
+      "name": "Puly Caff Verde",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0886000-NEW-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF-COD.0887000-NEW-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/pulyCAFF-Verde_Monodose-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0886000-RETRO-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF-COD.0887000-RETRO-1000x1000.png"
+      ],
+      "specs": {
+        "format": "powder",
+        "sizes": [
+          "1kg jar (100% recycled plastic)",
+          "510g jar (100% recycled plastic)",
+          "Box of 120 x 3.5g single-dose sachets"
+        ],
+        "formula": "plant-based, renewable ingredients (sugarcane, roots)",
+        "certifications": ["REACH", "CLP", "HACCP"]
+      },
+      "description": "Eco-friendly espresso machine cleaner (pulyCAFF New / Verde line) made from plant-based renewable ingredients rather than petroleum sources. Removes coffee residues and fat deposits, preventing unpleasant odors inside the grouphead, discharge valve and all water passages. Fully water-soluble and compliant with REACH and CLP regulations. Daily use prevents buildup that causes approximately 70% of espresso machine breakdowns.",
+      "source_url": "https://www.pulicaff.com/en/product/pulycaff-linea-new/"
+    },
+    {
+      "id": "cl-pulymilk",
+      "name": "Puly Milk Plus",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/PULYMILK-COD.0870000-FRONTE-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/pulyMILK_4monodosi-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/pulyMILK_30-monodosi-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/puliMILK_14monodosi-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/PULYMILK-COD.0870000-RETRO-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/04/PULYCAFF_foto1.1_sito_pulymilk-1000x1000.jpg"
+      ],
+      "specs": {
+        "format": "liquid",
+        "sizes": [
+          "1L with dosing bottle (100% recycled plastic)",
+          "4-pack of 25ml ready-to-use doses",
+          "30-pack of 25ml ready-to-use doses",
+          "14-pack of 25ml doses with washing tray"
+        ],
+        "certifications": ["NSF International", "HACCP", "FDA-recognized"]
+      },
+      "description": "Daily-use cleaner for steam wands, automatic cappuccinators and milk dispensers. Ensures complete elimination of milk residues and deposits from milk processing. NSF International certified and formulated with FDA-recognized materials. Available as 1-litre bottle with dosing cap or convenient ready-to-use single doses.",
+      "source_url": "https://www.pulicaff.com/en/product/pulymilk-plus/"
+    },
+    {
+      "id": "cl-pulymilkverde",
+      "name": "Verde Puly Milk",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYMILK-COD.0880000-FRONTE-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYMILK-COD.0880000-RETRO-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF_foto1.1_sito_pulyMILK-verde-1000x1000.jpg"
+      ],
+      "specs": {
+        "format": "liquid",
+        "sizes": [
+          "1L bottle with built-in dispenser (100% recycled plastic)"
+        ],
+        "formula": "water-soluble natural ingredients, surfactants from renewable natural sources",
+        "certifications": ["HACCP"]
+      },
+      "description": "Eco-friendly steam wand and cappuccino maker cleaner (pulyMILK New / Verde line). Ensures complete removal of residues from the processing of milk and plant-based beverages that accumulate on steam wands. Formulated with water-soluble natural ingredients and surfactants from renewable sources. Daily use maintains machine integrity while enhancing steam quality and milk froth texture. Also cleans milk pitchers, automatic frothers, and countertop milk dispensers.",
+      "source_url": "https://www.pulicaff.com/en/product/pulymilk-linea-new/"
+    },
+    {
+      "id": "cl-pulybari",
+      "name": "Puly Bari Gienic Spray",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0570000-NEW-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0570000-RETRO-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF_foto1.1_sito_pulyBAR-IGIENIC-1000x1000.jpg"
+      ],
+      "specs": {
+        "format": "liquid spray",
+        "volume": "1L",
+        "packaging": "spray bottle",
+        "certifications": ["HACCP", "UNI EN 13727"]
+      },
+      "description": "Bacteriostatic surface cleaner that limits or inhibits the proliferation of germs and bacteria, tested and certified in accordance with UNI EN 13727 standards. Effectively removes food residues, rancid traces, oils, and fats from bar and coffee machine surfaces. Features plant-based ingredients, leaves no residue, and maintains hygiene throughout the workday in compliance with HACCP regulations.",
+      "source_url": "https://www.pulicaff.com/en/product/pulybar-igienic-linea-new/"
+    },
+    {
+      "id": "cl-pulygrind",
+      "name": "Puly Grind Cristalli",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYGRIND-COD.0203000-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyGRIND-Crystals-monodose-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYGRIND-COD.0205000-RETRO-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYGRIND-COD.0203000-RETRO-1000x1000.png"
+      ],
+      "specs": {
+        "format": "crystalline powder granules",
+        "sizes": [
+          "405g jar (30% recycled plastic)",
+          "Box of 10 single-dose sachets"
+        ],
+        "usage_frequency": "every 24-36 hours"
+      },
+      "description": "Coffee grinder cleaner made of small crystals with extremely high absorbing power for oils and fats. Liberates flat and conical burrs and the grinding chamber from coffee deposits. Applied every 24-36 hours, it maintains mill cleanliness and espresso quality by removing accumulated residue between the cutting elements and within the burr grooves.",
+      "source_url": "https://www.pulicaff.com/en/product/pulygrind-crystals-linea-new/"
+    },
+    {
+      "id": "cl-pulydescaler",
+      "name": "Puly Cleaner Descaler",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/puly-Cleaner-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/puly-Cleaner-bustina-1000x1000.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCLEANER-25G-RETRO-1000x1000.png"
+      ],
+      "specs": {
+        "format": "powder",
+        "size": "Box of 10 x 25g single-dose sachets",
+        "dosage": "1 sachet per 1 litre of water",
+        "max_frequency": "every 30 days",
+        "certifications": ["HACCP"]
+      },
+      "description": "Powder descaler for cleaning boilers, heat exchangers, heating elements, kettles, filter coffee machines and coffee extraction equipment. Even a 0.3mm layer of limescale acts as an insulator, lowering temperature by approximately 5°C and resulting in under-extracted coffee. Odorless, tasteless and environmentally friendly. Complies with HACCP standards and is safe for food-contact surfaces. Not suitable for aluminum materials.",
+      "source_url": "https://www.pulicaff.com/en/product/puly-cleaner/"
+    },
+    {
+      "id": "cl-pulycaffplus",
+      "name": "Puly Caff Plus Tabs NSF",
+      "images": [
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Brew-Tabs-1gr.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/pulyCAFF-Brew-Tabs-4gr.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0825000-RETRO.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/COD.0826000-RETRO.png",
+        "https://www.pulicaff.com/wp-content/uploads/2024/05/PULYCAFF_foto1.1_sito_NSF-Tabs-scaled.jpg"
+      ],
+      "specs": {
+        "format": "tablets",
+        "sizes": [
+          "100 tablets x 1g (Ø 10mm, 10mm depth)",
+          "120 tablets x 4g (Ø 20mm, 8mm depth)"
+        ],
+        "packaging": "jar",
+        "certifications": ["NSF International", "HACCP", "FDA-recognized"]
+      },
+      "description": "NSF-certified cleaning tablets for filter coffee machines, filter holders, and servers. As filter extractions become increasingly popular in cafes and bars, proper maintenance is essential to remove coffee residues from filter holders and servers. Formulated with NSF International certification and FDA-recognized materials.",
+      "source_url": "https://www.pulicaff.com/en/product/pulycaff-brew-tabs/"
+    }
+  ]
+}

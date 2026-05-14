@@ -1,0 +1,227 @@
+{
+  "brand": "La Cimbali",
+  "manufacturer_url": "https://www.cimbali.com",
+  "scraped_date": "2026-05-09",
+  "scrape_notes": "lacimbali.com domain expired; scraped cimbali.com with headless browser. 8 current models found; 13 older models not on current site.",
+  "products": [
+    {
+      "id": "lc-m200",
+      "name": "M200",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/a014c354_210922ft_canon.00_00_03_10.still001-blocco.jpeg",
+        "https://www.cimbali.com/sites/default/files/prt_1088-blocco.jpg",
+        "https://www.cimbali.com/sites/default/files/m200_gt1_matt_black_trequarti_trasp-blocco.jpg",
+        "https://www.cimbali.com/sites/default/files/via-ceresio_0310-blocco.jpg",
+        "https://www.cimbali.com/sites/default/files/m200_gt1_laterali_insieme-blocco.jpg"
+      ],
+      "specs": {},
+      "description": "A perfect synthesis of elegance and Made in Italy craftsmanship. The launch of the M200 was long-awaited. It was a challenge to follow in the footsteps of a machine like the M100. But La Cimbali’s DNA is expressed in its slogan: project. A relentless forward thrust that has generated a new aesthetic and functional paradigm. A lowered structure that leaves room for dialogue and a visual relationship between baristas and users. A timeless design that nonchalantly fits into any context. The M200 is the result of a multi-year research project. A process of collective genesis involving the contribution of engineers and production technicians, baristas and sensory scientists, brand managers and industrial designers, resulting in an unprecedented machine.",
+      "source_url": "https://www.cimbali.com/products/traditional-machines/m200"
+    },
+    {
+      "id": "lc-m40",
+      "name": "M40",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/desc_1_the_future_is_design_21.jpg",
+        "https://www.cimbali.com/sites/default/files/desc_2_the_future_is_ergonomy_22.jpg",
+        "https://www.cimbali.com/sites/default/files/desc_3_the_future_is_digital_17.jpg",
+        "https://www.cimbali.com/sites/default/files/desc_4_the_future_is_technology_07.jpg"
+      ],
+      "specs": {},
+      "description": "The future is now. It is founded on respect. It has inspired a vision, one where all the values of the LaCimbali brand come to life: people, research, technology, innovation, an unwavering drive for perfection, while simultaneously focusing on sustainability. With the signature of Valerio Cometti + V12 Design, the new M40 aligns itself closely with the style of the M200, introducing a family feeling that was missing. The style recalls our flagship product but adapts its forms to better meet the needs of different customers. A red thread that continues to guide us, through time and space. Premium Materials. The metal body is designed with highly resistant, high-quality, and durable materials, including die-cast aluminum and steel.",
+      "source_url": "https://www.cimbali.com/products/traditional-machines/m40"
+    },
+    {
+      "id": "lc-m26te",
+      "name": "M26 TE/RE",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/72ea41ffa687597851848ca66afb6fec_11.jpg",
+        "https://www.cimbali.com/sites/default/files/eac.jpg"
+      ],
+      "specs": {},
+      "description": "The past meets the present: visible chrome groups, metal feet and optional wooden decorations are just some of the features that make the M26TE RE a premium model. Designed to make the barista’s life as easy as possible, the machine is increasingly user-friendly thanks to the service display and the work surface lights. Ergonomic and dynamic, the M26TE RE is equipped with a backlit electromechanical control panel, angled filter holders and long steam wands. Thanks to the Perfect Grinding System (PGS) and Bluetooth technology, the M26 TE RE interacts with the grinder to ensure automatic and precise grinding adjustment for consistently high-quality coffee, without assistance from a barista.",
+      "source_url": "https://www.cimbali.com/products/traditional-machines/m26-te-re"
+    },
+    {
+      "id": "lc-m26be",
+      "name": "M26",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/72ea41ffa687597851848ca66afb6fec_11.jpg",
+        "https://www.cimbali.com/sites/default/files/001-descrizioni-m26-se-be.jpg",
+        "https://www.cimbali.com/sites/default/files/002-descrizioni-m26-se-be.jpg",
+        "https://www.cimbali.com/sites/default/files/003-descrizioni-m26-se-be.jpg"
+      ],
+      "specs": {},
+      "description": "The M26 is a versatile machine made of steel and ABS and equipped with a LaCimbali heating system to guarantee excellent quality in the cup. \n\tAvailable in the versions SE and BE Precision design and ergonomics dedicated to the barista. \n\tThe M26 has an electromechanical control panel, longer ergonomic wands, a service display and lights on the work surface in the more comprehensive SE version. The M26 range is enriched with the compact model, combining quality in the cup with LaCimbali’s trademark reliability in limited spaces. The M26 Compact is also available in the 1 group or 2 group compact version with stickers kit in different colours.",
+      "source_url": "https://www.cimbali.com/products/traditional-machines/m26"
+    },
+    {
+      "id": "lc-m23up",
+      "name": "M23 UP",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/ruveco_teck_0.jpg",
+        "https://www.cimbali.com/sites/default/files/descrizione-1_1.jpg",
+        "https://www.cimbali.com/sites/default/files/descrizione-2_0.jpg"
+      ],
+      "specs": {},
+      "description": "The M23UP is an elegant, versatile machine that is easy to use and maintain. Ergonomic and robust, the M23UP is made of steel. Its fixed-nozzle thermosyphon system is reliable and guarantees top performance, for excellent results in the cup every time. Lights on the coffee group (optional) can be used to illuminate the work space. Available in 2- and 3-group dosed and continuous versions (and also in a Tall Cup version), the M23UP features button pads with backlit keys to ensure prompt and precise delivery, and comes in three colours (black, white and red). The wide logo strip on the front of the M23UP is ideal for adding your own personalisation. Each group of the DT models has four buttons for dosed selections and one for continuous ON/OFF delivery Each group of the C models has one butt",
+      "source_url": "https://www.cimbali.com/products/traditional-machines/m23"
+    },
+    {
+      "id": "lc-elective",
+      "name": "Elective",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/ruveco_teck.jpg",
+        "https://www.cimbali.com/sites/default/files/d_0.jpg",
+        "https://www.cimbali.com/sites/default/files/ce_2.jpg",
+        "https://www.cimbali.com/sites/default/files/elective_2.jpg"
+      ],
+      "specs": {},
+      "description": "The perfect coffee is an idea in constant evolution. To guarantee the finest quality in the cup and maximum flexibility, we created Elective so that it could interface with the most advanced LaCimbali machines. Its natural and optimal combination is with M100 Attiva HDA and GTA to create a unique integrated BDS system. Thanks to the bluetooth system integrated in the grinder, LaCimbali M100 Attiva TDA and Dosatron, M39RE and M26TE can also communicate with Elective to consistently guarantee perfect coffee grinding, partly thanks to PGS technology. A compact design featuring elegant shaping comes together with a new Inverter motor to bring about definitive change in the way we view grinding as a concept. The contained dimensions of Elective are designed to ensure optimal use in small spaces",
+      "source_url": "https://www.cimbali.com/products/grinder-dosers/elective"
+    },
+    {
+      "id": "lc-s15",
+      "name": "G50",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/desc-1-raw-material.jpg",
+        "https://www.cimbali.com/sites/default/files/desc-2-performance.jpg",
+        "https://www.cimbali.com/sites/default/files/desc-3-freedom-of-movement9.jpg",
+        "https://www.cimbali.com/sites/default/files/desc-4-connective-intelligence.jpg",
+        "https://www.cimbali.com/sites/default/files/desc-5-design.jpg"
+      ],
+      "specs": {},
+      "description": "The G50 is the ideal coffee grinder-doser for those who strive for in-cup excellence. Because the coffee can only be extracted at its best if it is perfectly ground. It preserves the sensory characteristics of the coffee, from the bean to the grind in the filter. The grind enhances each type of coffee preserving the sensory characteristics found in every cup. The coffee bean has everything needed in it. The new G50 grinder-doser is meticulously designed to grind it to perfection.",
+      "source_url": "https://www.cimbali.com/products/grinder-dosers/g50"
+    },
+    {
+      "id": "lc-conik",
+      "name": "Conik",
+      "images": [
+        "https://www.cimbali.com/sites/default/files/ruveco_teck_0.jpg",
+        "https://www.cimbali.com/sites/default/files/d_4.jpg",
+        "https://www.cimbali.com/sites/default/files/macinadosatori-conik-box1.jpg"
+      ],
+      "specs": {},
+      "description": "The Conik Wireless interacts automatically via Bluetooth with the coffee machine (when the latter is equipped with a special electronic board): the machine sends a signal to the grinder so that it adapts granulometry and dose according to the data received in order to obtain the best in-the-cup result. \n\t- Touch screen. \n\t- Filter-holder fork of aluminium. \n\t- High production per hour. Gruppo Cimbali S.p.a. (hereinafter the  “Company” ) takes great care to ensure the security and confidentiality of its clients personal data during all business operations. The Company is the data controller for personal data gathered on this website/app and other data gathered by the Company.",
+      "source_url": "https://www.cimbali.com/products/grinder-dosers/conik"
+    },
+    {
+      "id": "lc-m100",
+      "name": "M100 Attiva",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-m39re",
+      "name": "M39 RE",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-m24",
+      "name": "M24",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-m21jr",
+      "name": "M21 Junior",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-slite",
+      "name": "S Lite",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-s20",
+      "name": "S20",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-s30",
+      "name": "S30",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-s60",
+      "name": "S60",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-conikw",
+      "name": "Conik Wireless",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-magnum",
+      "name": "Magnum",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-magnums",
+      "name": "Magnum Silver",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-magnumw",
+      "name": "Magnum On Demand Wireless",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    },
+    {
+      "id": "lc-magnumwb",
+      "name": "Magnum On Demand Wireless BDS",
+      "images": [],
+      "specs": {},
+      "description": "",
+      "source_url": "",
+      "status": "not_found"
+    }
+  ]
+}

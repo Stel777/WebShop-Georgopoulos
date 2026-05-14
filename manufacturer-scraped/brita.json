@@ -1,0 +1,525 @@
+{
+  "brand": "Brita",
+  "manufacturer_url": "https://www.brita.co.uk/professional-filter",
+  "scraped_date": "2026-05-08",
+  "notes": "Scraped from brita.co.uk (UK professional site). Product images are lazy-loaded via JavaScript on the live site (Magnolia CMS), so image URLs resolve to placeholder.jpg in static fetches. Image alt texts and datasheet PDF JCR asset paths are recorded instead. The 'br-purityfinest' (PURITY Finest) product has no dedicated public product page — it appears only in the product overview listing at /filter-accessories-spare-parts.",
+  "products": [
+    {
+      "id": "br-aquagusto",
+      "name": "BRITA AquaGusto",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575377059727/dam/jcr:447bd176-1c1f-435a-a697-891125eb6705/brita_filter_aqua_gusto_filterpad_package_100.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575377075178/dam/jcr:233b5357-0a84-4de3-8545-a0cc2219481c/brita_filter_aquagusto_pad.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1711635855552/dam/jcr:1bbb0226-86d4-41b6-96a9-cabfc5f9534d/brita_filter_aquagusto_croissant_coffee_cup.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575377014677/dam/jcr:20f08940-768a-4d1e-9d59-bd2514751eca/brita_tapmodul_2015_aquagusto_pad_stehend_08_highres.png"
+      ],
+      "image_alt_texts": [
+        "BRITA filter AquaGusto pad front view"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:20a885d5-d09e-4e25-8e67-c0e9af5e763e/brita-filter-aquagusto-datasheet-en-GB.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:ba590c75-762c-4528-8ac1-8d5a7bb46e90/brita-filter-aquagusto-instruction-manual-en-EN.pdf",
+      "specs": {
+        "sizes": [
+          "100",
+          "250"
+        ],
+        "capacity_liters": "100–250 (depending on size)",
+        "dimensions_mm": "85.1/25.8–115.5/32.9 (width/depth)",
+        "operating_position": "Horizontal or vertical",
+        "lifespan": "Up to 6 months",
+        "water_intake_temperature": "Not specified",
+        "technology": "Activated carbon + limescale reduction (tank cartridge)",
+        "connection": "Fits all conventional water tanks — no adapter or assembly required",
+        "application": "Coffee and espresso machines with water tank"
+      },
+      "description": "A practical filter solution for coffee and espresso machines with water tanks. Enhances coffee flavour, aroma and appearance while reducing limescale deposits. Fits all conventional water tanks without adapters or assembly. Includes automatic filter exchange signal. Lasts up to six months.",
+      "source_url": "https://www.brita.co.uk/aquagusto"
+    },
+    {
+      "id": "br-aquaaroma",
+      "name": "BRITA AquaAroma",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624725613/dam/jcr:aa091781-1fae-4f12-afc2-c931d45be7b9/brita_filters_aquaaromacrema_neu.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624759026/dam/jcr:46df52ff-acd1-4a68-a169-2d00b507361f/brita_filter_aquaaromacrema.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624746978/dam/jcr:b7b312f6-c11f-4332-b21c-7fb9325a9d25/brita_filter_aquaaromacrema_in_use.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624737973/dam/jcr:125256e6-5989-4911-9044-8ba37b4a241f/brita_filter_aquaaromacrema_machine.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624722678/dam/jcr:2e8f25b1-da96-402f-a1ff-1112cc99a8a6/brita_filter_aqua_aroma.png"
+      ],
+      "image_alt_texts": [
+        "BRITA filter AquaAroma"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:491a1695-0c89-4b7f-85ec-c555e6d3946b/brita-filter-aquaaroma-datasheet-en-EN.pdf",
+      "specs": {
+        "dimensions_mm": "89.6 (diameter) × 36.2 (height)",
+        "capacity_liters": "81–242 (depending on carbonate hardness)",
+        "water_intake_temperature": "4–30°C",
+        "operating_type": "Gravity-fed, integrated tank",
+        "technology": "Activated carbon + limescale reduction (tank cartridge)",
+        "application": "Coffee machines with gravity-fed integrated water tanks",
+        "installation": "Easy installation and exchange by user — no professional installer required"
+      },
+      "description": "Compact water filtration solution designed for mobile coffee machines with gravity-operated integrated tanks. Delivers improved coffee taste and aroma while reducing limescale buildup to protect equipment and minimise maintenance costs. Easy installation and cartridge exchange.",
+      "source_url": "https://www.brita.co.uk/aquaaroma"
+    },
+    {
+      "id": "br-aquaaromacrema",
+      "name": "BRITA AquaAroma Crema",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624725613/dam/jcr:aa091781-1fae-4f12-afc2-c931d45be7b9/brita_filters_aquaaromacrema_neu.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624759026/dam/jcr:46df52ff-acd1-4a68-a169-2d00b507361f/brita_filter_aquaaromacrema.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624746978/dam/jcr:b7b312f6-c11f-4332-b21c-7fb9325a9d25/brita_filter_aquaaromacrema_in_use.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624737973/dam/jcr:125256e6-5989-4911-9044-8ba37b4a241f/brita_filter_aquaaromacrema_machine.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1605624722678/dam/jcr:2e8f25b1-da96-402f-a1ff-1112cc99a8a6/brita_filter_aqua_aroma.png"
+      ],
+      "image_alt_texts": [
+        "BRITA filter AquaAroma Crema",
+        "BRITA filter AquaAroma Crema coffee barista",
+        "BRITA filter AquaAroma Crema pouring coffee",
+        "BRITA filter AquaAroma Crema making coffee",
+        "BRITA filter AquaAroma Crema in use",
+        "BRITA filter AquaAroma Crema in use close-up",
+        "BRITA filter AquaAroma Crema machine"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:491a1695-0c89-4b7f-85ec-c555e6d3946b/brita-filter-aquaaroma-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:9e7c5551-c0e1-443e-903f-e2dd56e3f874/brita-filter-aquaaroma-crema-instruction-manual-INT.pdf",
+      "specs": {
+        "dimensions_mm": "42.8 (width) × 106.9 (height) × 60.8 (depth)",
+        "capacity_liters": "80–220 (depending on carbonate hardness)",
+        "water_intake_temperature": "4–30°C",
+        "operating_type": "Suction-operated, pressure-maintaining",
+        "technology": "Activated carbon + limescale reduction with adjustable aroma ring",
+        "application": "Espresso and coffee machines with suction-operated tank systems",
+        "key_feature": "Constant water pressure and temperature during entire brewing process; adjustable aroma ring for local water quality adaptation"
+      },
+      "description": "Advanced tank series filter for espresso and coffee machines with suction-operated tank systems. Features an adjustable aroma ring for local water quality customisation. Delivers enhanced crema, taste and aroma with consistent pressure and temperature throughout brewing. Reduces limescale and operating costs.",
+      "source_url": "https://www.brita.co.uk/aquaaroma"
+    },
+    {
+      "id": "br-proguard",
+      "name": "BRITA ProGuard",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1679489452873/dam/jcr:ff13ff18-7b2f-42d0-b15f-0318ddbc9efe/brita-pro-filter-bakery-baguette-464x348.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1679489460181/dam/jcr:dedd83b5-830b-4251-863b-77fc4bcd04ca/brita-pro-filter-bakery-baguette-710x400.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1679489474024/dam/jcr:cf772e1c-019f-4560-9911-1919b604aed1/brita-pro-filter-restaurant-kitchen-464x348.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1679489479227/dam/jcr:0f1dd4fb-6b98-44d9-8fc7-f2aab90fef6f/brita-pro-filter-restaurant-kitchen-710x400.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1679489546553/dam/jcr:68b63ac5-293d-40c7-8513-4d4ee21846f0/brita-pro-filter-restaurant-464x348.webp"
+      ],
+      "image_alt_texts": [],
+      "specs": {},
+      "description": "Not found on brita.co.uk or brita.de professional sites. 'ProGuard' does not appear to be a current active product in the Brita Professional Filter range as of 2026. May be a legacy or market-specific product.",
+      "source_url": "https://www.brita.co.uk/professional-filter",
+      "scraping_note": "No dedicated page found. Product name not present in UK, DE, or international professional filter catalogues scraped."
+    },
+    {
+      "id": "br-puritycquell",
+      "name": "BRITA PURITY C Quell ST",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627040104298/dam/jcr:aa6cc7ee-2cc4-4b4a-9563-5fc5dcf9125f/brita_filter_purity_c_quell_st_c50.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1630071725254/dam/jcr:55b31002-5474-40f1-964c-b7f96d3bd764/brita_filter_puritycquellst_range.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376344181/dam/jcr:b7a764c8-d58a-4a29-b6b7-5aa1dda7b40a/brita_filter_puritycquellst_finedining_steam_food.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1711635504518/dam/jcr:cd6ee360-4ebe-47e8-a77c-ee22be5aee70/2022_Professional_Filter_production_purity_C_filterhead_6_2560x1600.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY C Quell ST range",
+        "BRITA filter PURITY C Quell ST filterhead",
+        "BRITA filter PURITY C Quell ST steam food",
+        "BRITA filter PURITY C Quell ST coffeeshop",
+        "BRITA filters Purity C Quell ST coffeeshop barista",
+        "BRITA filter PURITY C Quell ST vending coffee",
+        "BRITA filter PURITY C150 Quell ST",
+        "BRITA filter PURITY C Quell ST filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:f7c73a2f-8dfd-4831-9da4-daa5c4c3b90e/brita-filter-purity-c-quell-st-datasheet-en-GB.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:3d9b1ede-ad33-49ea-aca7-6b3b8e11f7fe/brita-filter-purity-c-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "C50",
+          "C150",
+          "C300",
+          "C500",
+          "C1100"
+        ],
+        "capacity_by_size": {
+          "C50": {
+            "coffee_espresso_vending_40pct_bypass_10dH": "960 L",
+            "combi_steamer_oven_10pct_bypass_10dH": "660 L"
+          },
+          "C150": {
+            "coffee_espresso_vending_40pct_bypass_10dH": "2,880 L",
+            "combi_steamer_oven_10pct_bypass_10dH": "1,980 L"
+          },
+          "C300": {
+            "coffee_espresso_vending_40pct_bypass_10dH": "5,760 L",
+            "combi_steamer_oven_10pct_bypass_10dH": "3,960 L"
+          },
+          "C500": {
+            "coffee_espresso_vending_40pct_bypass_10dH": "9,600 L",
+            "combi_steamer_oven_10pct_bypass_10dH": "6,600 L"
+          },
+          "C1100": {
+            "coffee_espresso_vending_40pct_bypass_10dH": "11,500 L",
+            "combi_steamer_oven_10pct_bypass_10dH": "7,906 L"
+          }
+        },
+        "max_operating_pressure_bar": 8.6,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Four-stage BRITA Systematic Filtration with IntelliBypass",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Carbonate hardness reduction",
+          "Activated carbon filtration",
+          "Fine filtration"
+        ],
+        "bypass": "Variable bypass (IntelliBypass technology)",
+        "application": "Coffee/espresso machines, vending machines, combi steamers, ovens"
+      },
+      "description": "Professional water filter cartridge that expertly reduces limescale deposits across many professional applications. Four-stage decarbonisation using Trusted Systematic Filter Technology. IntelliBypass technology maintains consistent water quality regardless of flow rates. Suitable for coffee machines, espresso systems, vending equipment, combi steamers and ovens.",
+      "source_url": "https://www.brita.co.uk/purity-c-quell-st"
+    },
+    {
+      "id": "br-puritycfin",
+      "name": "BRITA PURITY C Finest",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039444126/dam/jcr:6c5117d3-25fd-4988-a707-cb834445e981/brita_filter_purity_c_finest_c150.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627044531488/dam/jcr:bbb9ec55-3e25-49bb-adbb-8e8d50798554/1024x1024_2019_PURITY_C_Finest_portfolio_composition.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039189578/dam/jcr:b22ecc07-a5aa-45ec-b7b3-6567b005f53b/brita_filter_puritycfinest_range_portrait.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039217635/dam/jcr:3d5a8ac6-6bca-4010-9d7c-1f19ad9182cb/brita_filter_puritycfinest_range_landscape.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY C Finest range",
+        "BRITA filter Purity C Finest making coffee",
+        "BRITA filter PURITY C Finest bakery woman coffee",
+        "BRITA filter PURITY C Finest coffee maker cup",
+        "BRITA filter PURITY C Finest C150",
+        "BRITA filter PURITY C Finest filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:39fc2310-1df5-4ac9-b07a-d72d51e277ed/brita-filter-purity-c-finest-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:3d9b1ede-ad33-49ea-aca7-6b3b8e11f7fe/brita-filter-purity-c-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "C150",
+          "C300",
+          "C500",
+          "C1100"
+        ],
+        "capacity_liters": "1,100–6,000 (at 10°dH carbonate hardness, 0% bypass)",
+        "max_operating_pressure_bar": 8.6,
+        "operating_position": "Vertical",
+        "technology": "Four-stage BRITA Systematic Filtration (total hardness reduction)",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Total hardness reduction",
+          "Activated carbon filtration",
+          "Fine filtration"
+        ],
+        "bypass": "0% (no bypass — full filtration)",
+        "application": "Espresso machines — creates ideal mineral composition for full bean aroma"
+      },
+      "description": "Professional water filter designed for espresso machines. Creates the ideal mineral composition for unfolding beans' full aroma. Reduces substances that can negatively affect espresso taste and aroma. Employs BRITA Systematic Filter Technology with four stages including total hardness reduction for optimum crema.",
+      "source_url": "https://www.brita.co.uk/purity-c-finest"
+    },
+    {
+      "id": "br-purityc50",
+      "name": "BRITA PURITY Fresh C50",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627055033395/dam/jcr:7e823ef1-6cfe-4f07-97d3-740ba6c86b1c/brita_filter_purity_c_fresh_c50.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627054652792/dam/jcr:1ffc2ac1-8ba0-4394-addb-64ef8714913d/brita_filter_purityfreshc50.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1684232260158/dam/jcr:21d0cd01-43b0-4980-a60d-83a12195cb40/brita_filter_quality-and-safety.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1524576312565/dam/jcr:bb09fe0d-87f4-46a0-9a10-168c294c9f17/Filter_800x800.png"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY C Fresh 50",
+        "BRITA filter PURITY Fresh C50 barista cappuccino",
+        "BRITA filter PURITY Fresh C50 vending coffee",
+        "BRITA filter PURITY Fresh C50 making coffee",
+        "BRITA filter PURITY Fresh C50 making coffee close",
+        "BRITA filter PURITY Fresh C50 vending coffee maker",
+        "BRITA filter PURITY Fresh C50 filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:4154a8fb-5391-4fef-9c83-1f2216ec5fca/brita-filter-purity-c50-fresh-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:3d9b1ede-ad33-49ea-aca7-6b3b8e11f7fe/brita-filter-purity-c-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "C50"
+        ],
+        "capacity_liters": "15,000",
+        "max_operating_pressure_bar": 8.6,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Three-stage activated carbon filtration (no carbonate hardness reduction)",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Activated carbon filtration",
+          "Fine filtration"
+        ],
+        "bypass": "Not applicable (designed for soft water areas)",
+        "application": "Coffee machines, espresso machines, vending machines in soft water areas"
+      },
+      "description": "Professional water filter cartridge designed specifically for soft water areas. Three-step systematic filtration technology including pre-filtration, activated carbon filtration and fine filtration. Optimised for hot water applications such as coffee and tea. Features rapid-change system with innovative locking handle and integrated flush valve.",
+      "source_url": "https://www.brita.co.uk/purity-fresh-c50"
+    },
+    {
+      "id": "br-purityquell",
+      "name": "BRITA PURITY Quell ST",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627041046837/dam/jcr:4d35233c-484f-4fe1-9c20-43533fabea09/brita_filter_purity_quell_st_450_with_mdu.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627040907996/dam/jcr:02188772-e81b-481b-bbea-6623d02fdcba/brita_filter_purityquellst_range.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376037486/dam/jcr:6c92fe2e-68d6-419a-8d3c-ceb4c1234606/brita_filter_purityquellst_finedining_steam_food.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376024332/dam/jcr:3281d165-4b11-4371-a041-699737f19d05/brita_filter_purityquellst_latte_macchiato.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY Quell ST range",
+        "BRITA filter PURITY Quell ST steam food",
+        "BRITA filter PURITY Quell ST latte macchiato",
+        "BRITA filter PURITY Quell ST making coffee",
+        "BRITA filter PURITY Quell ST bakery making coffee",
+        "BRITA filter PURITY Quell ST vending coffee maker",
+        "BRITA filter PURITY 600 Quell ST",
+        "BRITA filter PURITY Quell ST filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:696fe0ba-614c-416b-acb4-37c6e0cad5e4/brita-filter-purity-quell-st-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:b70b6f8c-f0f1-4e9d-bd13-e1dda4021a62/brita-filter-purity-quell-st-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "450",
+          "600",
+          "1200"
+        ],
+        "capacity_liters": "4,217–13,187 (at 10°dH carbonate hardness, 40% bypass, for coffee/espresso/vending)",
+        "max_operating_pressure_bar": 6.9,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Four-stage BRITA Systematic Filtration with IntelliBypass",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Carbonate hardness reduction",
+          "Activated carbon filtration",
+          "Fine filtration"
+        ],
+        "bypass": "Variable (IntelliBypass technology)",
+        "application": "Coffee/espresso/vending machines, catering and food service"
+      },
+      "description": "Professional water filtration cartridge that decarbonises water using proven BRITA Systematic Filtration Technology. Reduces taste and aroma-impairing substances. Variable bypass settings for adjusting to local water quality. Protects appliances by reducing limescale deposits. Suitable for catering, vending and food service applications.",
+      "source_url": "https://www.brita.co.uk/purity-quell-st"
+    },
+    {
+      "id": "br-puritycsteam",
+      "name": "BRITA PURITY C Steam",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627040612903/dam/jcr:89dd58b1-1f97-4f76-8c28-90f7613edaeb/brita_filter_purity_c_steam_500.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1758876339342/dam/jcr:35b6f23f-ec36-4275-879b-b1278dece2bc/brita_professional_filter_purity_c500_c1100_steam_1024x1024.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376210722/dam/jcr:816b2bb7-eb72-4083-b47a-9fccc8ff3354/brita_filter_puritycsteam_kitchen_steam_food.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376195963/dam/jcr:9c08c3fd-1a74-456b-a8aa-ad73f7cbdb28/brita_filter_puritycsteam_finedining_food_cook.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY C Steam range",
+        "BRITA filter PURITY C Steam bakery bread close-up",
+        "BRITA filter PURITY C Steam bakery making bread",
+        "BRITA filter PURITY C Steam finedining steam food",
+        "BRITA filter PURITY C500 Steam",
+        "BRITA filter PURITY C Steam filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:a5d4c9c3-914f-4c50-ae42-006efce9a118/brita-filter-purity-c-steam-datasheet-en-GB.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:6857dec6-ac43-459d-b344-b6ad8103dfd6/brita-filter-purity-c-steam-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "C500",
+          "C1100"
+        ],
+        "capacity_by_size": {
+          "C500": {
+            "at_10dH_bypass_pos1": "4,675 L"
+          },
+          "C1100": {
+            "at_10dH_bypass_pos1": "7,907 L"
+          }
+        },
+        "flow_rate": "Up to 300 l/h with 1 bar pressure loss",
+        "max_operating_pressure_bar": 8.6,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Four-stage BRITA Systematic Filtration",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Carbonate hardness reduction",
+          "Activated carbon filtration",
+          "Fine filtration"
+        ],
+        "application": "Small to mid-sized combi steamers and ovens"
+      },
+      "description": "Professional water filter cartridge for small to mid-sized combi steamers and ovens. Trusted Systematic Filter Technology reduces limescale and taste-impairing substances, enhancing food quality while protecting equipment from downtime. Four-stage filtration with flow rate up to 300 l/h.",
+      "source_url": "https://www.brita.co.uk/purity-c-steam"
+    },
+    {
+      "id": "br-puritysteam",
+      "name": "BRITA PURITY Steam",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627041792138/dam/jcr:ebf7b8c1-b7e5-4816-a9ce-0cccd6c2cab7/brita_filter_purity_steam_450_with_mdu.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627054595540/dam/jcr:32f477ed-1c63-4ed9-82f9-10acd1266d3b/brita_filter_puritysteam_range.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575375947823/dam/jcr:401067a7-e46d-42c6-a503-991ae74266b8/brita_filter_puritysteam_chef_steam_food.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1712056885868/dam/jcr:ee2e359c-2a07-4e50-8b7e-02f0b750809f/2023_stock_photos_bakery_1496x1752.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY Steam range",
+        "BRITA filter PURITY Steam chef steam food",
+        "BRITA filter PURITY Steam catering buffet",
+        "BRITA filter PURITY Steam bakery making bread",
+        "BRITA filter PURITY Steam fine dining steam food",
+        "BRITA filter PURITY Steam filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:d8c39aa6-be88-4762-b5a3-b20109794f4f/brita-filter-purity-steam-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:0752c78a-7c00-4c7f-972e-9c67bb6d067d/brita-purity-steam-system-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "450",
+          "600",
+          "1200"
+        ],
+        "capacity_liters": "3,680–10,800 (at 10°dH carbonate hardness, bypass position 1)",
+        "flow_rate": "Up to 500 l/h with 1 bar pressure loss",
+        "max_operating_pressure_bar": 6.9,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Three-stage BRITA Systematic Filtration with IntelliBypass",
+        "filtration_stages": [
+          "Pre-filtration",
+          "Carbonate hardness reduction",
+          "Fine filtration"
+        ],
+        "bypass": "Variable (IntelliBypass technology)",
+        "application": "Combi steamers and conventional ovens"
+      },
+      "description": "Advanced water filter cartridge for steam cooking and baking applications. Provides ideal water quality for combi steamers and conventional ovens while enhancing taste and protecting appliances from limescale buildup. Three-step decarbonisation with IntelliBypass technology. Flow rate up to 500 l/h.",
+      "source_url": "https://www.brita.co.uk/purity-steam"
+    },
+    {
+      "id": "br-purityclean",
+      "name": "BRITA PURITY Clean",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039813109/dam/jcr:1b6f0bb0-ca42-4821-8f77-9587d354b42c/brita_filter_purity_clean_1200.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039733607/dam/jcr:f7e4c46a-a47d-420a-af57-400cf7261d35/brita_filter_purityclean_range.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1711635578417/dam/jcr:dbedd422-bd0c-4e3c-8d6f-736fe75c617c/2022_Professional_Filter_restaurant_dishwasher_8_1480x1752.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376425081/dam/jcr:4dd27a33-4241-44ce-a8ae-4b5e8910fb53/brita_filter_purityclean_barista_coffee_machine.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY Clean range",
+        "BRITA filter PURITY clean glass with dishwasher",
+        "BRITA filter PURITY Clean barista coffee machine",
+        "BRITA filter PURITY Clean fine dining glasses",
+        "BRITA filter PURITY Clean fine dining restaurant",
+        "BRITA filter PURITY Clean clean glass"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:06ff636d-dccb-4feb-9d1a-e79e8a5d0f8a/brita-filter-purity-clean-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:fa49e887-37f9-4d1f-8c45-6768de1e5437/brita-filter-purity-clean-extra-system-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "1200"
+        ],
+        "capacity_liters": "12,000 (at 10°dH carbonate hardness, 0% bypass)",
+        "max_operating_pressure_bar": 6.0,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Partial demineralisation",
+        "application": "Undercounter dishwashers — professional glasswashing"
+      },
+      "description": "Professional dishwasher filter using partial demineralisation technology. Prevents limescale deposits, eliminating the need for hand polishing while protecting machine longevity. Delivers streak-free glassware, unmarked crockery and cutlery. Increases dishwasher lifespan by reducing limescale deposits.",
+      "source_url": "https://www.brita.co.uk/purity-clean"
+    },
+    {
+      "id": "br-puritycleanex",
+      "name": "BRITA PURITY Clean Extra",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039813109/dam/jcr:1b6f0bb0-ca42-4821-8f77-9587d354b42c/brita_filter_purity_clean_1200.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627039733607/dam/jcr:f7e4c46a-a47d-420a-af57-400cf7261d35/brita_filter_purityclean_range.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1711635578417/dam/jcr:dbedd422-bd0c-4e3c-8d6f-736fe75c617c/2022_Professional_Filter_restaurant_dishwasher_8_1480x1752.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575376425081/dam/jcr:4dd27a33-4241-44ce-a8ae-4b5e8910fb53/brita_filter_purityclean_barista_coffee_machine.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY Clean range",
+        "BRITA filter PURITY Clean Extra filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:06ff636d-dccb-4feb-9d1a-e79e8a5d0f8a/brita-filter-purity-clean-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:fa49e887-37f9-4d1f-8c45-6768de1e5437/brita-filter-purity-clean-extra-system-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "1200"
+        ],
+        "capacity_liters": "5,000 (at 10°dH total hardness, 0% bypass)",
+        "max_operating_pressure_bar": 6.0,
+        "operating_position": "Horizontal or vertical",
+        "technology": "Total demineralisation",
+        "application": "Undercounter dishwashers — highest-demand professional glasswashing"
+      },
+      "description": "Advanced professional dishwasher filter using total demineralisation for highest-demand applications. Satisfies highest demands with sparkling glasses, gleaming white crockery and cutlery without streaks and marks. Ideal for premium hospitality settings requiring exceptional results and complete limescale prevention.",
+      "source_url": "https://www.brita.co.uk/purity-clean"
+    },
+    {
+      "id": "br-purityc1000",
+      "name": "BRITA PURITY C1000 AC",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1632925287840/dam/jcr:e59ccace-8e2f-4f6d-a234-3c0445a8520f/2021_PURITY_C_1000_AC_front.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627308074941/dam/jcr:cc3f9d5d-a1f3-4039-b010-95f8a6c90ad6/brita_filter_purityc1000ac.png",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1716538841226/dam/jcr:2fda2554-d25d-4394-9177-dc6f179208ca/2019_Vivreau_office_woman_smile_1480x1752.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1575483365511/dam/jcr:7bf016d9-2d22-4c98-8e0b-5c9f5a656eec/bubbleohneplaybutton.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1627054803454/dam/jcr:1c486da4-de52-4cfe-a3a7-c294d1c8772a/brita_filter_purityc1000ac_portrait.webp"
+      ],
+      "image_alt_texts": [
+        "BRITA filter PURITY C1000 AC",
+        "BRITA filter PURITY C 1000 AC office woman glass",
+        "BRITA filter PURITY C 1000 AC office man glass",
+        "BRITA filter PURITY C1000 AC filtration"
+      ],
+      "datasheet_pdf": "https://www.brita.co.uk/dam/jcr:ccd4ff46-9827-46fc-881a-a590702f2a54/brita-filter-purity-c-1000-ac-datasheet-en-EN.pdf",
+      "instruction_manual_pdf": "https://www.brita.co.uk/dam/jcr:3d9b1ede-ad33-49ea-aca7-6b3b8e11f7fe/brita-filter-purity-c-instruction-manual-INT.pdf",
+      "specs": {
+        "sizes": [
+          "C1000"
+        ],
+        "capacity_liters": "10,000",
+        "max_operating_pressure_bar": 8.6,
+        "operating_position": "Horizontal or vertical",
+        "particle_retention_microns": 0.5,
+        "compliance": "NSF Standard 42",
+        "technology": "Two-stage activated carbon filtration (no carbonate hardness reduction)",
+        "filtration_stages": [
+          "Pre-filtration (coarse particles)",
+          "Activated carbon filtration (taste/aroma)"
+        ],
+        "application": "Cold drink dispensers and vending systems"
+      },
+      "description": "Professional water filter for cold drink dispensers and vending systems. Employs Trusted Systematic Filter Technology with two-stage activated carbon filtration to optimise water taste, aroma and clarity. Filters particles down to 0.5 µm. Compliant with NSF Standard 42.",
+      "source_url": "https://www.brita.co.uk/purity-c1000-ac"
+    },
+    {
+      "id": "br-purityfinest",
+      "name": "BRITA PURITY Finest",
+      "images": [
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1724316118409/dam/jcr:d2a11f2b-2825-4d32-87da-cbb3640c30b1/brita-prof-filter-purity-c-iq-product-visual-1024x1024.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1701868185962/dam/jcr:81cb1f60-890b-428d-b69e-9b0f2c371415/brita-prof-filter-purity-c-iq-filter-head-online-1024x1024.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1694072118403/dam/jcr:2c829b97-b28a-47d6-bf84-fee08efe07a4/brita-prof-filter-purity-c-iq-quell-st-range-product-visual-1024x1024.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1694072161348/dam/jcr:05b69162-05df-45f9-a404-18370fdacdb1/brita-prof-filter-purity-c150-iq-quell-st-product-visual-1024x1024.webp",
+        "https://cdn.brita.net/.imaging/opt/w800/h800/1694071045940/dam/jcr:5c0f1417-b863-432a-9d9c-b9795c92e512/brita-prof-filter-purity-c-iq-finest-range-product-visual-1024x1024.webp"
+      ],
+      "image_alt_texts": [],
+      "datasheet_pdf": null,
+      "specs": {
+        "application": "Food and beverage filtration — fine dining and catering",
+        "technology": "BRITA Systematic Filtration (larger format system)",
+        "sizes": "Multiple sizes available"
+      },
+      "description": "Professional filter cartridge for food and beverage applications. Optimally filtered water for food and beverages — 'Your guests and appliances deserve the best.' Larger-format equivalent to PURITY C Finest for high-volume fine dining and catering environments.",
+      "source_url": "https://www.brita.co.uk/filter-accessories-spare-parts",
+      "scraping_note": "No dedicated public product page found on brita.co.uk or brita.de. Product is listed in the professional filter accessories overview at /filter-accessories-spare-parts but links to the partner-only online shop requiring login. Detailed specs (capacity table, sizes, pressure) not publicly accessible. The product is confirmed to exist in the 2025/2026 catalogue."
+    }
+  ],
+  "image_access_note": "All brita.co.uk and brita.de professional product pages use Magnolia CMS with JavaScript lazy-loading. Static HTML fetches only return a single CDN placeholder: https://cdn.brita.net/.imaging/opt/1/dam/jcr:5f557b0f-65a2-444a-ad05-0672d3ac3877/placeholder.jpg — this is the same for all products. Real product images require a browser with JavaScript enabled to render. Image JCR UUIDs can be seen in the page source only after full JS execution. Actual image CDN pattern would be: https://cdn.brita.net/.imaging/opt/1/dam/jcr:<UUID>/<filename>.jpg",
+  "pdf_catalogue": "https://www.brita.co.uk/dam/jcr:6ebd5b00-49c4-4ae7-b070-46ecaad64ffc/brita-filter-product-album-en-EN.pdf",
+  "contact": {
+    "uk_phone": "+44 1869 365 851",
+    "hours": "Monday–Friday 08:30–17:00",
+    "contact_page": "https://www.brita.co.uk/filter-contact"
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "brand": "Fiorenzato",
+  "manufacturer_url": "https://www.fiorenzato.com",
+  "scraped_date": "2026-05-08",
+  "products": [
+    {
+      "id": "fz-allground",
+      "name": "All Ground",
+      "images": [
+        "https://www.fiorenzatohome.com/img/allground_basic01.png",
+        "https://www.fiorenzatohome.com/img/allground_basic02.png",
+        "https://www.fiorenzatohome.com/img/allground_basic03.png",
+        "https://www.fiorenzatohome.com/img/allground_basic04.png",
+        "https://www.fiorenzatohome.com/img/allground_basic05.png",
+        "https://www.fiorenzatohome.com/img/allground_basic06.png",
+        "https://www.fiorenzatohome.com/img/allground_basic07.png"
+      ],
+      "specs": {
+        "burrs": "64mm flat, Dark-T® coated",
+        "motor": "250W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "burr_lifespan": "3,000 kg",
+        "dose_control": "Time-based (seconds)",
+        "hopper_capacity": "500g",
+        "weight": "9kg",
+        "dimensions": "169 × 440 × 240 mm",
+        "daily_use": "Up to 1kg",
+        "grind_adjustment": "Continuous micrometric dial"
+      },
+      "description": "The AllGround Classic offers three grinding classes, three pleasure interpretations and infinite daily combinations. Features flat burrs manufactured in-house by Fiorenzato with Dark-T coating for maximum performance. An adjustable fork with support and continuous micrometric adjustment provide precision for home baristas.",
+      "source_url": "https://www.fiorenzatohome.com/allground-classic.php"
+    },
+    {
+      "id": "fz-allgsense",
+      "name": "All Ground Sense",
+      "images": [
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Deep-black_Matte.png",
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Arctic-white.png",
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Pastel-blue.png",
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Bright-silver_Deep-black-(chrome-old).png",
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Copper_Deep-black.png",
+        "https://www.fiorenzatohome.com/img/AllGround-Sense_Arctic-white_Walnut-wood.png",
+        "https://www.fiorenzatohome.com/img/allground_sense_image01.jpg",
+        "https://www.fiorenzatohome.com/img/allground_sense_image02.jpg",
+        "https://www.fiorenzatohome.com/img/allground_sense_image03.jpg",
+        "https://www.fiorenzatohome.com/img/allground_sense_image04.jpg"
+      ],
+      "specs": {
+        "burrs": "64mm flat, Dark-T® coated",
+        "motor": "250W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "burr_lifespan": "3,000 kg",
+        "scale_precision": "0.1g",
+        "grind_adjustment": "Micrometric, 10μm increments",
+        "dose_range": "Adjustable in grams",
+        "dispensing_time": "8g in 5.5sec / 16g in 10.5sec",
+        "hopper_capacity": "500g",
+        "weight": "9kg",
+        "dimensions": "169 × 440 × 240 mm",
+        "daily_use": "Up to 1kg"
+      },
+      "description": "The AllGround Sense is the maximum technological expression of Fiorenzato's home line, featuring an integrated scale in the portafilter fork to consistently achieve the perfect coffee quantity. It delivers unequaled precision at every dose through a patented floating cell with protection technology. A touchscreen allows users to select grams for espresso, moka, and filter coffee with outstanding precision.",
+      "source_url": "https://www.fiorenzatohome.com/allground-sense.php"
+    },
+    {
+      "id": "fz-allgprobrew",
+      "name": "All Ground Pro Brew",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08).",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f6d",
+      "name": "F6 D",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-D-1.png"
+      ],
+      "specs": {
+        "burrs": "83mm flat",
+        "motor": "650W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "15.5kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "control": "Timer (T) or Manual switch (M)",
+        "housing": "Painted die-cast metal",
+        "bag_holder": "Standard"
+      },
+      "description": "Professional coffee grinder in painted die-cast metal that guarantees low heating of the ground coffee. Designed for groceries and specialty coffee environments. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes.",
+      "source_url": "https://www.fiorenzato.com/en/grocery/f6-d/"
+    },
+    {
+      "id": "fz-f71kd",
+      "name": "F71 KD",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-DK-1.png"
+      ],
+      "specs": {
+        "burrs": "71mm conical",
+        "motor": "850W",
+        "speed": "300/min (50/60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "19kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "control": "Timer (T) or Manual switch (M)",
+        "bag_holder": "Standard"
+      },
+      "description": "Reliable, heavy-duty grinder designed to be long-lasting and offer perfect results every time. Ideal for groceries, coffee shops, and all kinds of bars. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes.",
+      "source_url": "https://www.fiorenzato.com/en/grocery/f71-dk/"
+    },
+    {
+      "id": "fz-f4a",
+      "name": "F4 A",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-nero-opaco_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-nero_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-grigio_520x1000-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-grigio-met_520x1000-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-bianco-opaco_520x1000-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-panna_520x1000-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-A-rosso_520x1000-1.png"
+      ],
+      "specs": {
+        "burrs": "58mm flat",
+        "motor": "250W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "hopper_capacity": "500g",
+        "doser_capacity": "200g",
+        "shot_adjustment_range": "5.5–10g",
+        "weight": "10kg",
+        "dimensions": "169 × 473 × 240 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "auto_fill": "Microswitch for automatic doser filling"
+      },
+      "description": "A compact, good all-round coffee grinder adapted to the needs of people requiring high performance but in small spaces. The F4 A includes microswitch for automatic filling doser and features standard varnishing. Available in seven color finishes.",
+      "source_url": "https://www.fiorenzato.com/en/grinder-dosers/f4-a/"
+    },
+    {
+      "id": "fz-f4nano",
+      "name": "F4 Nano",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08).",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f5a",
+      "name": "F5 A",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F5-A-1.png"
+      ],
+      "specs": {
+        "burrs": "64mm flat",
+        "motor": "350W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "doser_capacity": "250g",
+        "shot_adjustment_range": "5.5–10g",
+        "weight": "14kg",
+        "dimensions": "230 × 615 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "models_available": "A (auto-fill), T (timer), M (manual)"
+      },
+      "description": "User-friendly, reliable and precise: the F5 coffee grinder guarantees consistently identical grinding, resulting in a perfect cup of coffee every time. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes: Deep Black, Glossy Black, Nardò Grey, Classic Grey, Arctic White, Pearl White, and Glossy Red.",
+      "source_url": "https://www.fiorenzato.com/en/grinder-dosers/f5/"
+    },
+    {
+      "id": "fz-f6a",
+      "name": "F6 A",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F6-A-1.png"
+      ],
+      "specs": {
+        "burrs": "83mm flat",
+        "motor": "650W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "doser_capacity": "250g",
+        "shot_adjustment_range": "5.5–10g",
+        "weight": "16kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "models_available": "A (automatic microswitch), T (timer), M (manual switch)"
+      },
+      "description": "Extremely heavy-duty and versatile, specifically designed for coffee shops and bars with high consumption every day. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes.",
+      "source_url": "https://www.fiorenzato.com/en/grinder-dosers/f6/"
+    },
+    {
+      "id": "fz-f71ka",
+      "name": "F71 KA",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F71-AK-1.png"
+      ],
+      "specs": {
+        "burrs": "71mm conical",
+        "motor": "850W",
+        "speed": "450/min (50Hz) – 500/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "doser_capacity": "250g",
+        "shot_adjustment_range": "5.5–10g",
+        "weight": "21kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "auto_fill": "Microswitch for automatic doser filling"
+      },
+      "description": "Coffee grinder in die-cast metal with conical millstones — effectiveness and reliability that lasts over time. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes: Deep Black, Glossy Black, Nardò Grey, Classic Grey, Arctic White, Pearl White, Glossy Red.",
+      "source_url": "https://www.fiorenzato.com/en/grinder-dosers/f71-ak/"
+    },
+    {
+      "id": "fz-f4e",
+      "name": "F4 E",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). May be a distributor-specific variant name.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f4evo",
+      "name": "F4 EVO",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-nero-opaco_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-nero_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-grigio_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-grigio-met_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-bianco-opaco_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-panna_520x1000.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F4-EVO-rosso_520x1000.png"
+      ],
+      "specs": {
+        "burrs": "58mm flat",
+        "motor": "414W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "hopper_capacity": "800g",
+        "weight": "9kg",
+        "dimensions": "169 × 473 × 240 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "dose_adjustment": "Adjustable in seconds",
+        "display": "Touchscreen with CapSense technology",
+        "fork": "Adjustable with support"
+      },
+      "description": "Features an exclusive touchscreen display with CapSense technology enabling consistent grinding every time at the tap of a finger. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f4-evo/"
+    },
+    {
+      "id": "fz-f64e",
+      "name": "F64 E",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-E-1.png"
+      ],
+      "specs": {
+        "burrs": "64mm flat",
+        "motor": "350W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "13kg",
+        "dimensions": "230 × 615 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "dose_adjustment": "Adjustable in seconds",
+        "display": "Touchscreen with CapSense technology",
+        "fork": "Adjustable with support"
+      },
+      "description": "Features an exclusive touchscreen display with CapSense technology for consistent grinding every time at the tap of a finger. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes: Deep Black, Glossy Black, Nardò Grey, Classic Grey, Arctic White, Pearl White, Glossy Red.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f64-e/"
+    },
+    {
+      "id": "fz-f64evo",
+      "name": "F64 EVO",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F64-EVO-1.png"
+      ],
+      "specs": {
+        "burrs": "64mm flat",
+        "motor": "450W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "13kg",
+        "dimensions": "230 × 615 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "dose_adjustment": "Adjustable in seconds",
+        "cooling": "Automatic electronic motor fan",
+        "fork": "Adjustable with support"
+      },
+      "description": "Designed to simplify the work of baristas and obtain perfect results every time. Features 64-mm flat burrs and automatic cooling fan. Every detail has been studied to ensure utmost efficiency and practicality of use. Available in seven color finishes: Deep Black, Glossy Black, Nardò Grey, Classic Grey, Arctic White, Pearl White, Glossy Red.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f64-evo/"
+    },
+    {
+      "id": "fz-f83e",
+      "name": "F83 E",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F83-E-1.png"
+      ],
+      "specs": {
+        "burrs": "83mm flat",
+        "motor": "650W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "15kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "dose_adjustment": "Adjustable in seconds",
+        "fork": "Adjustable with support"
+      },
+      "description": "Engineered for commercial coffee shops, delivering precise, consistently identical grinding and a perfect cup of coffee every time. Every detail has been studied to ensure utmost efficiency and practicality of use.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f83-e/"
+    },
+    {
+      "id": "fz-f71ke",
+      "name": "F71 KE",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2025/05/F71-EK-1.png"
+      ],
+      "specs": {
+        "burrs": "71mm conical",
+        "motor": "850W",
+        "speed": "300/min (50/60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "20kg",
+        "dimensions": "230 × 670 × 270 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "dose_adjustment": "Adjustable in seconds",
+        "display": "Touchscreen with CapSense technology",
+        "cooling": "Electronic motor cooling",
+        "fork": "Adjustable with support"
+      },
+      "description": "Features a patented system and touchscreen display with CapSense technology. The unit offers adjustable fork support, rapid dose adjustment measured in seconds, and electronic motor cooling activation. Available in seven colors including Deep Black, Arctic White, and Glossy Red.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f71-ek/"
+    },
+    {
+      "id": "fz-f4eco",
+      "name": "F4 ECO",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2020/10/F4-ECO-nero_520x1000.png"
+      ],
+      "specs": {
+        "burrs": "58mm flat",
+        "motor": "250W",
+        "speed": "1400/min (50Hz) – 1600/min (60Hz)",
+        "hopper_capacity": "500g",
+        "weight": "8kg",
+        "dimensions": "169 × 473 × 240 mm",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "fork": "Adjustable",
+        "color": "Sanded black (RAL MICACEO)"
+      },
+      "description": "Compact and versatile, the F4 ECO coffee grinder guarantees lower consumption without having to say goodbye to perfect grinding and a perfect cup of coffee every time. The model emphasizes efficiency and practical usability.",
+      "source_url": "https://www.fiorenzato.com/en/grocery/f4-eco/"
+    },
+    {
+      "id": "fz-f4enano",
+      "name": "F4 E Nano",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). May be a distributor-specific variant name.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f4filter",
+      "name": "F4 Filter",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). May be a distributor-specific variant name.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f64xgi",
+      "name": "F64 EVO XGi",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2023/09/F64-EVO-XGI-1.png"
+      ],
+      "specs": {
+        "burrs": "64mm flat",
+        "motor": "600W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "15.3kg",
+        "dimensions": "255 × 635 × 320 mm",
+        "dose_adjustment": "Adjustable in grams",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "cooling": "Automatic cooling fan",
+        "fork": "Adjustable with support",
+        "operation": "Touchless XGi technology"
+      },
+      "description": "A technologically advanced espresso grinder featuring 64-mm burrs and automatic cooling fan. Designed to enhance barista efficiency through touchless operation enabled by XGi technology. The device prioritizes both utmost efficiency and practicality of use with detailed engineering throughout its construction.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f64-evo-xgi/"
+    },
+    {
+      "id": "fz-f83xgi",
+      "name": "F83 E XGi",
+      "images": [
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-4-1.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-3.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-5.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-6.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-7.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-2.png",
+        "https://www.fiorenzato.com/wp-content/uploads/2022/05/F83-E-XGI-1.png"
+      ],
+      "specs": {
+        "burrs": "83mm flat",
+        "motor": "850W",
+        "speed": "1350/min (50Hz) – 1550/min (60Hz)",
+        "hopper_capacity": "1.5kg",
+        "weight": "18.6kg",
+        "dimensions": "255 × 700 × 310 mm",
+        "dose_adjustment": "Adjustable in grams",
+        "grind_adjustment": "Continuous micrometric ring nut",
+        "fork": "Adjustable with support",
+        "operation": "XGi touchless technology"
+      },
+      "description": "This grinder features 83-mm flat burrs and combines technological capabilities to maintain the exact weight of coffee to be ground consistently. The design emphasizes utmost efficiency and practicality of use, offering precise dosing control suited for professional settings.",
+      "source_url": "https://www.fiorenzato.com/en/on-demand/f83-e-xgi/"
+    },
+    {
+      "id": "fz-f71kxgi",
+      "name": "F71 KE XGi",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). Fiorenzato does not currently list an F71 KE XGi model.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f64evogt",
+      "name": "F64 EVO GT",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). The GT line does not appear in any current product category on fiorenzato.com.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f71kegt",
+      "name": "F71 KE GT",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). The GT line does not appear in any current product category on fiorenzato.com.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f71k1gt",
+      "name": "F71 K 1GT",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). The GT line does not appear in any current product category on fiorenzato.com.",
+      "source_url": ""
+    },
+    {
+      "id": "fz-f83egt",
+      "name": "F83 E GT",
+      "images": [],
+      "specs": {},
+      "description": "Product not found on the Fiorenzato manufacturer website at time of scraping (2026-05-08). The GT line does not appear in any current product category on fiorenzato.com.",
+      "source_url": ""
+    }
+  ]
+}

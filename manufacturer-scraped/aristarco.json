@@ -1,0 +1,26 @@
+{
+  "brand": "Aristarco",
+  "manufacturer_url": "https://www.aristarco.it",
+  "scraped_date": "2026-05-11",
+  "notes": "AE and AL series are legacy/discontinued product lines. Their technical documentation is locked behind the Aristarco reserved member area (https://www.aristarco.it/area-riservata/). No public-facing product pages exist for these models. The 2022 General Catalogue (WASH) covers only current series: AF Fusion, AS Superior, AH Hood-Type, AR Rack Conveyor, AFX Flight Conveyor, AU Utensil.",
+  "products": [
+    {
+      "id": "ar-ae3521",
+      "name": "AE 35.21",
+      "images": [],
+      "specs": {},
+      "description": "Legacy glasswasher/dishwasher model from the Aristarco AE series. Technical documentation is available only through the Aristarco reserved member area and is not publicly accessible.",
+      "source_url": "https://www.aristarco.it/area-riservata/",
+      "availability_notes": "Product page not found on public website. AE series absent from 2022 General Catalogue. Documentation behind login wall at https://www.aristarco.it/area-riservata/"
+    },
+    {
+      "id": "ar-al4028",
+      "name": "AL 40.28",
+      "images": [],
+      "specs": {},
+      "description": "Legacy glasswasher/dishwasher model from the Aristarco AL series. Technical documentation is available only through the Aristarco reserved member area and is not publicly accessible.",
+      "source_url": "https://www.aristarco.it/area-riservata/",
+      "availability_notes": "Product page not found on public website. AL series absent from 2022 General Catalogue. Documentation behind login wall at https://www.aristarco.it/area-riservata/"
+    }
+  ]
+}

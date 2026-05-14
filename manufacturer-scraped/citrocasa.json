@@ -1,0 +1,134 @@
+{
+  "brand": "Citrocasa",
+  "manufacturer_url": "https://www.citrocasa.com",
+  "scraped_date": "2026-05-09",
+  "notes": "Citrocasa website serves product images as SVG placeholder data-URIs (lazy-loaded via JavaScript); no static product image URLs are accessible via WebFetch. Specs and descriptions successfully extracted from citrocasa.com/en/produkte/ pages. Product images sourced from georgopoulos.com.gr existing scrape (Wixstatic CDN). Sitemap confirmed product URL structure: /en/produkte/{product-slug}/. The Revolution product on Citrocasa's site is simply 'Revolution' — the 'Advance' suffix is added by the Greek distributor. Citrocasa's Fantastic M product maps to Fantastic M/AS model (manual fruit feed, automatic start). Note: Fantastic M/SB (same specs as M/AS, 30 oranges/min, 44kg, 200W, 78x38x55.5cm) was also verified on citrocasa.com.",
+  "products": [
+    {
+      "id": "cc-8000xb",
+      "name": "8000 XB Advance",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_cc8cfb4a647d4bf6bbeac96fdfdce9daf000.jpg",
+        "https://static.wixstatic.com/media/bff2ed_305ba998f6274446bece0df846c79c9f~mv2.jpg",
+        "https://www.citrocasa.com/wp-content/uploads/2023/09/citrocasa_global.gif"
+      ],
+      "specs": {
+        "output_oranges_per_min": 40,
+        "output_liters_per_min": 2.7,
+        "hopper_capacity_kg": 21,
+        "optimal_fruit_size_mm": "65–78",
+        "dimensions_HxWxD_cm": "102 x 67 x 66",
+        "weight_kg": 78.5,
+        "weight_packaged_kg": 109,
+        "power_W": 280,
+        "voltage": "110/230 V",
+        "juice_tank_capacity_L": 5,
+        "transport_system": "ATS (Automatic) or MTS (Manual)",
+        "pressing_kit_fruit_range_mm": "50–90",
+        "key_features": [
+          "Cross Holder with 5 fixed positions for quick tool removal",
+          "Double Cover enabling 2-zone technology for complete disassembly",
+          "Intelligent Stop programmable automatic shut-off",
+          "Pressing Kit for fruits 50–90mm (oranges, lemons, limes, grapefruits)",
+          "ATS/MTS transport system keeps sieve clean of pulp, seeds, peel",
+          "Up & Down Soft-Cutting System prevents skin tearing for maximum juice purity"
+        ]
+      },
+      "description": "The 8000 XB Advance from Citrocasa is the perfect solution for pre-pressing larger quantities of orange juice. Juice is pressed directly into a storage tank with approximately 5-litre capacity, ideal when staff fill juice into bottles or glasses on-site and customers chill them in refrigerators or crushed-ice baths. With an output of 40 oranges per minute (2.7L in 60 seconds) and a 21kg hopper, it is the top choice for hotels and high-volume establishments. Features the patented Cross Holder, 2-zone Double Cover technology, Intelligent Stop auto shut-off, and the Up & Down Soft-Cutting System for pure, bitter-free juice.",
+      "source_url": "https://www.citrocasa.com/en/produkte/8000-xb/"
+    },
+    {
+      "id": "cc-fantasticm",
+      "name": "Fantastic M",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_059a2f92e69f445a884cb61ecd499259f000.jpg",
+        "https://static.wixstatic.com/media/bff2ed_7a4ffb253aac4058b83a0a9203974b7a~mv2.jpg"
+      ],
+      "specs": {
+        "model_full": "Fantastic M/AS (Manual fruit feed, Automatic Start)",
+        "output_oranges_per_min": 30,
+        "output_liters_per_min": 2.0,
+        "hopper_capacity_oranges": "3–4",
+        "optimal_fruit_size_mm": "65–78",
+        "dimensions_HxWxD_cm": "78 x 38 x 55.5",
+        "weight_kg": 44,
+        "power_W": 200,
+        "voltage": "110/230 V",
+        "key_features": [
+          "Cross Holder with patented 7-position fixing for quick tool removal",
+          "Up & Down Softcutting System prevents bitter taste from skin tearing",
+          "Manual Transport System (MTS) keeps sieve clean",
+          "Double Cover for complete disassembly and bacteria-free sanitization",
+          "Intelligent Stop automatic shut-off preventing bowl overflow",
+          "Modular design allows conversion from manual to automatic operation"
+        ],
+        "target_venues": ["Cafés", "Restaurants", "Bakeries", "Hotels", "Breakfast buffets"]
+      },
+      "description": "The Citrocasa Fantastic M/AS (Manual fruit feed with Automatic Start) is the most reliable partner in the daily battle against time for producing high-quality orange juice. Designed for venues with limited bar space such as cafés, restaurants, bakeries, hotels, and breakfast buffets. Features thoughtful design and simple handling. Produces 30 oranges per minute (2L in 60 seconds). The patented 7-position Cross Holder, Up & Down Softcutting System, Manual Transport System, and Double Cover ensure maximum hygiene and juice purity. Modular design allows upgrading to fully automatic operation.",
+      "source_url": "https://www.citrocasa.com/en/produkte/fantastic-m-as/"
+    },
+    {
+      "id": "cc-fantasticeco",
+      "name": "Fantastic Eco",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_f93b60142ca8462eb993e05f346c823cf000.jpg",
+        "https://static.wixstatic.com/media/bff2ed_1387ffa505ed4721ab1a73ece9c8ca15~mv2.jpeg"
+      ],
+      "specs": {
+        "operation_type": "Manual (hand-powered)",
+        "output_fruits_per_min": 10,
+        "output_liters_per_min": 0.7,
+        "fruit_supply": "Manual",
+        "optimal_fruit_size_mm": "65–83",
+        "dimensions_HxWxD_cm": "79 x 61 x 56.5",
+        "dimensions_with_basket_HxWxD_cm": "87 x 61 x 56.5",
+        "weight_kg": 61,
+        "flywheel_weight_kg": 18,
+        "power": "None (manual operation)",
+        "key_features": [
+          "18kg flywheel for smooth, round pressing motion",
+          "Ergonomic design to reduce user fatigue",
+          "2-zone technology separating motor from food contact areas",
+          "Quick Cleaning Kit (dishwasher-safe components)",
+          "Double Cover for complete disassembly and bacteria-free operation",
+          "Hygiene certified by Institut Hygienicum Graz"
+        ],
+        "accessories_available": ["Glass shelf", "Tableau tray", "Pedestal/distance adapter", "Fruit storage basket", "Bottle dispensers", "Substructure trolley", "Lemon kit", "Counter installation device", "Handle inlays"]
+      },
+      "description": "The Citrocasa Fantastic Eco is a manual citrus juicer combining the design and quality features of the Fantastic family with hand-powered operation. Equipped with an 18kg flywheel for smooth, consistent pressing motion. Produces juice through manual power, making it ideal for locations without electricity access or where noise-free, fully autonomous operation is required. Features 2-zone technology for food safety, dishwasher-safe Quick Cleaning Kit, and Double Cover for complete disassembly. Hygiene certified by Institut Hygienicum Graz. No electricity costs during juice production.",
+      "source_url": "https://www.citrocasa.com/en/produkte/fantastic-eco/"
+    },
+    {
+      "id": "cc-revolution",
+      "name": "Revolution Advance",
+      "images": [
+        "https://static.wixstatic.com/media/fae23e_23c80cdf054b45708e90b09cab379f04f000.jpg",
+        "https://static.wixstatic.com/media/bff2ed_16464bb66f4b43c3b75ba60ef3f0c7cc~mv2.jpg"
+      ],
+      "specs": {
+        "output_oranges_per_min": 15,
+        "output_liters_per_min": 1.0,
+        "fruit_size_range_mm": "65–78",
+        "dimensions_HxWxD_cm": "77 x 24 x 51.2",
+        "weight_kg": 43,
+        "power_W": 280,
+        "feed_tunnel_capacity_oranges": "5–6",
+        "voltage": "110/230 V",
+        "key_features": [
+          "Automatic press adjustment based on peel thickness for optimal juice yield",
+          "Softcutting system prevents bitter flavours",
+          "Removable infeed tunnel with optimized shutter system",
+          "Double Cover with removable rear panel for hygiene",
+          "Patented Cross Holder for quick disassembly",
+          "2-zone technology separating engine from juice-contact components",
+          "All food-contact parts dishwasher safe",
+          "Reverse tray ejector integration"
+        ],
+        "accessories_available": ["Substructure trolley", "Fruit storage basket (~10kg)", "Distance adapter", "Pedestal for glasses", "Countertop installation device"],
+        "tagline": "From 0 to 1 litre in 60 seconds"
+      },
+      "description": "The Citrocasa Revolution Advance is a compact, high-performance citrus juicer designed for establishments facing limited space while still wanting to offer freshly squeezed orange juice. With dimensions of 77 x 24 x 51.2 cm it is one of the slimmest professional juicers available. Produces 15 oranges (1 litre) in 60 seconds. Features automatic press adjustment based on peel thickness, Softcutting System for bitter-free juice, and 2-zone technology separating the engine from food-contact components. All food-contact parts are dishwasher safe. Quick disassembly via patented Cross Holder for easy cleaning.",
+      "source_url": "https://www.citrocasa.com/en/produkte/revolution/"
+    }
+  ]
+}

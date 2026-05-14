@@ -1,0 +1,139 @@
+{
+  "brand": "Slayer / Casadio / Faema",
+  "scraped_date": "2026-05-08",
+  "scrape_notes": {
+    "slayer": "Successfully scraped from slayerespresso.com — full specs, images, and descriptions retrieved.",
+    "casadio": "casadio.com is a JavaScript SPA — static HTML returns only the brand name. Requires headless browser (scrapling stealthy-fetch) to render. Specs/images marked as PENDING.",
+    "faema": "faema.com returns HTTP 403 for all requests. Requires headless browser with stealth/proxy. Specs/images marked as PENDING."
+  },
+  "products": [
+    {
+      "id": "sl-steamlp",
+      "name": "Steam LP",
+      "brand": "Slayer",
+      "images": [
+        "https://slayerespresso.com/wp-content/uploads/2021/05/model-feat-lp01b.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/STEAM-LP-standard-2GR.png",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/20200818-SteamLPx_2G_MatteBlack6untitled-1024x737.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/20200818-SteamLPx_3G_BoneBeige5untitled-1024x759.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/20200818-SteamLPx_3G_TurquoiseBlue7untitled-1024x631.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/20200824-SteamLPx_3G_GlossyWhite6untitled-1024x730.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2025/01/steam-lp-blueprint-25.png"
+      ],
+      "specs": {
+        "groups": "2 or 3",
+        "boiler_brew": "1.7 L, 600 W per group",
+        "boiler_steam": "7.4 L / 3,500 W (2-group) | 12 L / 4,500 W (3-group)",
+        "pressure_profiling": "yes — programmable pre-infusion and post-infusion",
+        "dosing": "volumetric and manual modes",
+        "width_2gr": "35 in / 89 cm",
+        "width_3gr": "44.5 in / 113 cm",
+        "depth": "28 in / 71 cm",
+        "height": "17 in / 43.2 cm",
+        "weight_2gr": "220 lb / 100 kg",
+        "weight_3gr": "305 lb / 139 kg",
+        "power_single_phase_2gr": "220–240V; 50/60Hz; 21–23A; 4.7–5.6kW",
+        "power_single_phase_3gr": "220–240V; 50/60Hz; 29–32A; 6.3–7.6kW",
+        "power_three_phase_2gr": "380–415V; 50/60Hz; 13–14A; 4.9–5.7kW",
+        "power_three_phase_3gr": "380–415V; 50/60Hz; 15–16A; 5.8–6.5kW"
+      },
+      "description": "The Steam LP is the all-rounder: flavor profiling, for everyone. It enables users to easily extract delicious espresso every time with programmable pre-infusion, post-infusion, and volumetric output settings. The machine operates in both manual and volumetric modes, allowing operators to record favorite shots and replay them throughout the day. Key features include variable pressure capability, intuitive volumetric interface, quick calibration, per-group barista dashboard, individual brew tanks with PID control, electronic steam valves, and adjustable drip tray.",
+      "source_url": "https://slayerespresso.com/product/steam-lp/"
+    },
+    {
+      "id": "sl-steamep",
+      "name": "Steam EP",
+      "brand": "Slayer",
+      "images": [
+        "https://slayerespresso.com/wp-content/uploads/2021/05/model-feat-ep05.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/ep-spec-img.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2025/01/steam-ep-blueprint-25.png"
+      ],
+      "specs": {
+        "groups": "2 or 3",
+        "boiler_brew": "1.7 L, 600 W per group",
+        "boiler_steam": "7.4 L / 3,500 W (2-group) | 12 L / 4,500 W (3-group)",
+        "pressure_profiling": "yes — 0–4 second pre-wet capability, 9-bar extraction",
+        "dosing": "volumetric push-button — 4 programmable shots per group",
+        "width_2gr": "35 in / 89 cm",
+        "width_3gr": "44.5 in / 113 cm",
+        "depth": "28 in / 71 cm",
+        "height": "17 in / 43.2 cm",
+        "weight_2gr": "220 lb / 100 kg",
+        "weight_3gr": "305 lb / 139 kg",
+        "power_single_phase_2gr": "220–240V; 50/60Hz; 21–23A; 4.7–5.6kW",
+        "power_single_phase_3gr": "220–240V; 50/60Hz; 29–32A; 6.3–7.6kW",
+        "power_three_phase_2gr": "380–415V; 50/60Hz; 13–14A; 4.9–5.7kW",
+        "power_three_phase_3gr": "380–415V; 50/60Hz; 15–16A; 5.8–6.5kW"
+      },
+      "description": "The Steam EP is The Ultimate Espresso Workhorse designed for specialty coffee, featuring individual group tanks, quick and easy to access volumetric dosing, and high-quality parts. Key features include individual brew tanks with PID temperature control, volumetric push-button output with 4 programmable shots per group, 9-bar extraction with 0–4 second pre-wet capability, electronic steam valve system, centralized control dashboard, and a low-profile ergonomic design.",
+      "source_url": "https://slayerespresso.com/product/steam-ep/"
+    },
+    {
+      "id": "sl-espresso",
+      "name": "Slayer Espresso (Single Group)",
+      "brand": "Slayer",
+      "images": [
+        "https://slayerespresso.com/wp-content/uploads/2021/05/model-feat-sg01c.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/05/sg-2g-desc-warmer.jpg",
+        "https://slayerespresso.com/wp-content/uploads/2021/08/blueprint-models_sg.png"
+      ],
+      "specs": {
+        "groups": "1",
+        "boiler_brew": "1.1 L, 600 W",
+        "boiler_steam": "3.3 L, 1,300 W or 2,000 W",
+        "pressure_profiling": "yes — patented needle-valve technology for flow control",
+        "pump": "rotary vane (commercial-style)",
+        "group_head": "rated for 1 million cycles",
+        "width": "18.5 in / 47 cm",
+        "depth": "23 in / 58 cm",
+        "height": "13 in / 33 cm",
+        "weight": "110 lb / 50 kg",
+        "power_110v": "120V; 60Hz; 13A; 1.6kW",
+        "power_220v": "220–240V; 50/60Hz; 10A; 2.1–2.4kW"
+      },
+      "description": "The Slayer Espresso Single Group is unmatched in design and innovative technologies. It features patented needle-valve technology for flow control, an independent brew boiler for temperature stability, and a separate steam boiler for unlimited steam capacity. The system allows simultaneous steaming and shot pulling without pressure drops or temperature loss. Customization options include different wood types, panel colors, and metal finishes.",
+      "source_url": "https://slayerespresso.com/product/single-group/"
+    },
+    {
+      "id": "cs-nettuno",
+      "name": "Nettuno",
+      "brand": "Casadio",
+      "images": [],
+      "specs": {},
+      "description": "PENDING — casadio.com is a JavaScript Single Page Application. The site returns only the brand name as static HTML; a headless browser session is required to render product content. Run: scrapling extract stealthy-fetch \"https://www.casadio.com/en/nettuno/\" output.html --ai-targeted",
+      "source_url": "https://www.casadio.com/en/nettuno/",
+      "scrape_status": "BLOCKED_SPA"
+    },
+    {
+      "id": "cs-undici",
+      "name": "Undici",
+      "brand": "Casadio",
+      "images": [],
+      "specs": {},
+      "description": "PENDING — casadio.com is a JavaScript Single Page Application. The site returns only the brand name as static HTML; a headless browser session is required to render product content. Run: scrapling extract stealthy-fetch \"https://www.casadio.com/en/undici/\" output.html --ai-targeted",
+      "source_url": "https://www.casadio.com/en/undici/",
+      "scrape_status": "BLOCKED_SPA"
+    },
+    {
+      "id": "fa-e71e",
+      "name": "E71 E",
+      "brand": "Faema",
+      "images": [],
+      "specs": {},
+      "description": "PENDING — faema.com returns HTTP 403 Forbidden for all requests. A stealth browser with IP rotation or proxy is required. Run: scrapling extract stealthy-fetch \"https://www.faema.com/en/machines/e71e/\" output.html --ai-targeted --solve-cloudflare",
+      "source_url": "https://www.faema.com/en/machines/e71e/",
+      "scrape_status": "BLOCKED_403"
+    },
+    {
+      "id": "fa-e71touch",
+      "name": "E71 E Touch",
+      "brand": "Faema",
+      "images": [],
+      "specs": {},
+      "description": "PENDING — faema.com returns HTTP 403 Forbidden for all requests. A stealth browser with IP rotation or proxy is required. Run: scrapling extract stealthy-fetch \"https://www.faema.com/en/machines/e71-e-touch/\" output.html --ai-targeted --solve-cloudflare",
+      "source_url": "https://www.faema.com/en/machines/e71-e-touch/",
+      "scrape_status": "BLOCKED_403"
+    }
+  ]
+}
